@@ -1,0 +1,3990 @@
+[
+    {
+        "sku": "SB204-BR",
+        "descricao": "Bateria 20V Íon De Lítio 4Ah V20"
+    },
+    {
+        "sku": "SBA100-BR",
+        "descricao": "Adaptador De Bateria V20"
+    },
+    {
+        "sku": "SB12S-B2",
+        "descricao": "Bateria 12V"
+    },
+    {
+        "sku": "SB12S-BR",
+        "descricao": "Bateria 12V 1.5Ah Ionlithium"
+    },
+    {
+        "sku": "SB201-BR",
+        "descricao": "Bateria 20V Max 1,5Ah Ion Litio"
+    },
+    {
+        "sku": "SB206-BR",
+        "descricao": "20V Battery 6Ah"
+    },
+    {
+        "sku": "sb20c-b2",
+        "descricao": "Bateria 1.3Ah Ionlithium"
+    },
+    {
+        "sku": "SB20C-BR",
+        "descricao": "Bateria Ion Litio 20V"
+    },
+    {
+        "sku": "SB20D-BR",
+        "descricao": "Bateria 20V 2,0Ah Li-Ion"
+    },
+    {
+        "sku": "SB20M-BR",
+        "descricao": "Bateria 20V 4,0Ah Li-Ion"
+    },
+    {
+        "sku": "SC201-B2",
+        "descricao": "Carregador 1A 220V"
+    },
+    {
+        "sku": "SB202-BR",
+        "descricao": "Bateria 20V Ion De Litio 2Ah V20"
+    },
+    {
+        "sku": "SC121-BR",
+        "descricao": "Carregador 12V 1.25A Ionlithium"
+    },
+    {
+        "sku": "SC122-BR",
+        "descricao": "Carregador 12V 1.25A Bivolt"
+    },
+    {
+        "sku": "SC125-BR",
+        "descricao": "Carregador Bivolt 20V Com 1.25A"
+    },
+    {
+        "sku": "SC200-B2",
+        "descricao": "Carregador 220V 20V Com 2A"
+    },
+    {
+        "sku": "SC200-BR",
+        "descricao": "Carregador 127V 20V Com2A"
+    },
+    {
+        "sku": "SC201-BR",
+        "descricao": "Carregador 1A Bivolt"
+    },
+    {
+        "sku": "SBW920-B2",
+        "descricao": "Chave De Imp.1"
+    },
+    {
+        "sku": "SBW920M2K-B2",
+        "descricao": "Chave De Imp.1"
+    },
+    {
+        "sku": "SBW920M2K-BR",
+        "descricao": "Chave De Imp.1"
+    },
+    {
+        "sku": "SHG6060KA-B2",
+        "descricao": "Esmer.Ang+Furad.600W 220V C"
+    },
+    {
+        "sku": "SHG6060KA-BR",
+        "descricao": "Esmer.Ang+Furad.600W 127V C"
+    },
+    {
+        "sku": "SHG6070KA-B2",
+        "descricao": "Kit Furad.Imp+Esmerilhad.700W 220V"
+    },
+    {
+        "sku": "SHG6070KA-BR",
+        "descricao": "Kit Furad.Imp+Esmerilhad.700W 127V"
+    },
+    {
+        "sku": "SHG6750KA-B2",
+        "descricao": "Furad.Imp.1"
+    },
+    {
+        "sku": "SHG6750KA-BR",
+        "descricao": "Furad.Imp.1"
+    },
+    {
+        "sku": "SG6115D-B2",
+        "descricao": "Esmerilh.Ang4-1"
+    },
+    {
+        "sku": "SG6115D-BR",
+        "descricao": "Esmerilh.Ang4-1"
+    },
+    {
+        "sku": "SG7115KD-B2",
+        "descricao": "Esmer.Ang.4-1"
+    },
+    {
+        "sku": "SG7115KD-BR",
+        "descricao": "Esmer.Ang.4-1"
+    },
+    {
+        "sku": "STGS7115G-B2",
+        "descricao": "Esmerilhadeira 710W 220Vcom Luva"
+    },
+    {
+        "sku": "STGS7115G-BR",
+        "descricao": "Esmerilhadeira 710W 127Vcom Luva"
+    },
+    {
+        "sku": "STGS7115K10-B2",
+        "descricao": "Esmerilh.Ang.710W 220Vc"
+    },
+    {
+        "sku": "STGS7115K10-BR",
+        "descricao": "Esmerilh.Ang.710W 127Vc"
+    },
+    {
+        "sku": "STGS7115K3-B2",
+        "descricao": "Esmerilh.Ang.710W 220V C"
+    },
+    {
+        "sku": "STGS7115K3-BR",
+        "descricao": "Esmerilhad.Ang.710W 127Vc"
+    },
+    {
+        "sku": "STGS7115KD-B2",
+        "descricao": "Esmer.Ang.710W 220V C"
+    },
+    {
+        "sku": "STGS7115KD-BR",
+        "descricao": "Esmer.Ang.710W 127V C"
+    },
+    {
+        "sku": "STGS9115D-B2",
+        "descricao": "Esmerilh.Ang4-1"
+    },
+    {
+        "sku": "STGS9115D-BR",
+        "descricao": "Esmerilh.Ang4-1"
+    },
+    {
+        "sku": "SDH600G20B2",
+        "descricao": "Kit Furad.Imp.1"
+    },
+    {
+        "sku": "SDH600G20BR",
+        "descricao": "Kit Furad.Imp.1"
+    },
+    {
+        "sku": "SDH600K5B2",
+        "descricao": "Kit Furad.Imp1"
+    },
+    {
+        "sku": "SDH600K5BR",
+        "descricao": "Kit Furad.Imp1"
+    },
+    {
+        "sku": "SDH600KAB2",
+        "descricao": "Furad.Imp.1"
+    },
+    {
+        "sku": "SDH600KA-B2",
+        "descricao": "Furad.Imp.600W 220Vc"
+    },
+    {
+        "sku": "SDH600KABR",
+        "descricao": "Furad.Imp.1"
+    },
+    {
+        "sku": "SDH600KA-BR",
+        "descricao": "Furad.Imp.600W 127Vc"
+    },
+    {
+        "sku": "SDH600KP-B2",
+        "descricao": "Kit Furad.Imp.1"
+    },
+    {
+        "sku": "SDH600KP-BR",
+        "descricao": "Kit Furad.Imp.1"
+    },
+    {
+        "sku": "SDH600KS1B2",
+        "descricao": "Kit Furad.600W 220V C"
+    },
+    {
+        "sku": "SDH600KS1BR",
+        "descricao": "Kit Furad.600W 127V C"
+    },
+    {
+        "sku": "SDH600KS2B2",
+        "descricao": "Kit Furad.600W 220V C"
+    },
+    {
+        "sku": "SDH600KS2BR",
+        "descricao": "Kit Furad.600W 127V C"
+    },
+    {
+        "sku": "SDH700G20B2",
+        "descricao": "Kit Furad.Imp.1"
+    },
+    {
+        "sku": "SDH700G20BR",
+        "descricao": "Kit Furad.Imp.1"
+    },
+    {
+        "sku": "SDH700KB2",
+        "descricao": "Furad.Imp.1"
+    },
+    {
+        "sku": "SDH700KS1B2",
+        "descricao": "Kit Furad700W 220V C"
+    },
+    {
+        "sku": "SDH700KS1BR",
+        "descricao": "Kit Furad700W 127V C"
+    },
+    {
+        "sku": "STDH6013KA-B2",
+        "descricao": "Furadeira De Impacto 600"
+    },
+    {
+        "sku": "STDH6013KA-BR",
+        "descricao": "Furadeira De Impacto 600"
+    },
+    {
+        "sku": "STDH8013KA-B2",
+        "descricao": "Kit Furadeira Imp.1"
+    },
+    {
+        "sku": "STDH8013KA-BR",
+        "descricao": "Kit Furadeira Imp.1"
+    },
+    {
+        "sku": "STDH6513KA-BR",
+        "descricao": "Furad.Imp.600W 127V 1"
+    },
+    {
+        "sku": "SHR263KA-B2",
+        "descricao": "Kit Martel.800W 26Mm 220V+6Brocas Sds"
+    },
+    {
+        "sku": "SHR263KA-BR",
+        "descricao": "Kit Martel.800W 26Mm 127V+6Brocas Sds"
+    },
+    {
+        "sku": "STHR202KREDE-B2",
+        "descricao": "Martelete 2 Modos 220V + Brocas"
+    },
+    {
+        "sku": "STHR202KREDE-BR",
+        "descricao": "Martelete 2 Modos 127V + Brocas"
+    },
+    {
+        "sku": "SPT115WB2",
+        "descricao": "Serra Marmore 115Mm 220V C"
+    },
+    {
+        "sku": "SPT115WBR",
+        "descricao": "Serra Marmore 115Mm 127V C"
+    },
+    {
+        "sku": "STSP125K-B2",
+        "descricao": "Serra Marmore 1270W C"
+    },
+    {
+        "sku": "STSP125K-BR",
+        "descricao": "Serra Marmore 1270W C"
+    },
+    {
+        "sku": "STSC1718B-B2",
+        "descricao": "Serra Circular 1700W 220V C"
+    },
+    {
+        "sku": "STSC1718B-BR",
+        "descricao": "Serra Circular 1700W 127V C"
+    },
+    {
+        "sku": "STSC1718D-B2",
+        "descricao": "Serra Circular 1700W 220V C"
+    },
+    {
+        "sku": "STSC1718D-BR",
+        "descricao": "Serra Circular 1700W 127V C"
+    },
+    {
+        "sku": "SJ60-B2",
+        "descricao": "Serra Tico Tico 600W Com Kit 220V"
+    },
+    {
+        "sku": "SJ60-BR",
+        "descricao": "Serra Tico Tico 600W Com Kit 127V"
+    },
+    {
+        "sku": "SJ60K-B2",
+        "descricao": "Serra Tico Tico 600W Com Kit 220V"
+    },
+    {
+        "sku": "SJ60K-BR",
+        "descricao": "Serra Tico Tico 600W Com Kit 127V"
+    },
+    {
+        "sku": "SSJ60-B2",
+        "descricao": "Serra Tico Tico 600W Com Kit 220V"
+    },
+    {
+        "sku": "SSJ60-BR",
+        "descricao": "Serra Tico Tico 600W Com Kit 127V"
+    },
+    {
+        "sku": "SCHI121S2-BR",
+        "descricao": "Paraf"
+    },
+    {
+        "sku": "SCHI121S2FK-BR",
+        "descricao": "Par"
+    },
+    {
+        "sku": "SBD715C2KA-BR",
+        "descricao": "KIT 20V BL HAMMERDRILL 100ACC CRYSTALBOX"
+    },
+    {
+        "sku": "SBD715D2KA-BR",
+        "descricao": "Kit Paraf"
+    },
+    {
+        "sku": "SBI20S2K-BR",
+        "descricao": "Paraf.Imp.Brushless20V Lit-Ion Biv.C"
+    },
+    {
+        "sku": "SCD121S2KA-BR",
+        "descricao": "Kit Furadeira 12V Max 2 Baterias"
+    },
+    {
+        "sku": "SCD12S2K100-BR",
+        "descricao": "Kit Paraf"
+    },
+    {
+        "sku": "SCD12S2KA-BR",
+        "descricao": "Kit Parafusad.12V S"
+    },
+    {
+        "sku": "SCD711C1H-BR",
+        "descricao": "Kit Paraf"
+    },
+    {
+        "sku": "SCH121S1KA-BR",
+        "descricao": "Paraf"
+    },
+    {
+        "sku": "SCHF12S2-BR",
+        "descricao": "Kit Paraf"
+    },
+    {
+        "sku": "SCHF20C2K-B2",
+        "descricao": "Kit Para"
+    },
+    {
+        "sku": "SCHF20C2K-BR",
+        "descricao": "Kit Para"
+    },
+    {
+        "sku": "SCHI121C2K-BR",
+        "descricao": "Kit Parafus.Imp+Paraf"
+    },
+    {
+        "sku": "SCHI121S2K-BR",
+        "descricao": "Kit Parafusad.Imp+Paraf"
+    },
+    {
+        "sku": "SCS4K-BR",
+        "descricao": "Parafusad.4V 1,5A Ion Litio+Maleta+30Kts"
+    },
+    {
+        "sku": "STDH6513KA-B2",
+        "descricao": "Furad.Imp.600W 220V 1"
+    },
+    {
+        "sku": "STGB3715-BR",
+        "descricao": "Moto Esmeril De Bancada6\" 1"
+    },
+    {
+        "sku": "SBG700D2K-BR",
+        "descricao": "Esmerilh.Ang.4-1"
+    },
+    {
+        "sku": "STCT1840D1-BR",
+        "descricao": "Esmerilh.5\" 20V C"
+    },
+    {
+        "sku": "SBG700-B2",
+        "descricao": "Esmerilhadeira Angular 125Mm Brushless, Bare Sem Bateria E Carregador"
+    },
+    {
+        "sku": "GP7296B2",
+        "descricao": "Combo Esm.Ang.4 1"
+    },
+    {
+        "sku": "GP7296BR",
+        "descricao": "Combo Esm.Ang.4 1"
+    },
+    {
+        "sku": "SG6115-B2",
+        "descricao": "Esmerilhad.Ang.4-1"
+    },
+    {
+        "sku": "SG6115-BR",
+        "descricao": "Esmerilhad.Ang.4-1"
+    },
+    {
+        "sku": "SG7115-B2",
+        "descricao": "Esmerilhad.Ang.4-1"
+    },
+    {
+        "sku": "SG7115-BR",
+        "descricao": "Esmerilhad.Ang.4-1"
+    },
+    {
+        "sku": "STGL2223-B2",
+        "descricao": "Esmerilhad.Ang.De 9\" (230Mm) 2200W 220V"
+    },
+    {
+        "sku": "STGL2223-BR",
+        "descricao": "Esmerilhad.Ang.De 9\" (230Mm) 2200W 127V"
+    },
+    {
+        "sku": "STGS9115-B2",
+        "descricao": "Esmerilhad.Ang.4-1"
+    },
+    {
+        "sku": "STGS9115-BR",
+        "descricao": "Esmerilhad.Ang.4-1"
+    },
+    {
+        "sku": "STGL2218-B2",
+        "descricao": "Esmerilhadeira Ang.7\"2200W 220V"
+    },
+    {
+        "sku": "STGL2218-BR",
+        "descricao": "Esmerilhadeira Ang.7\"2200W 127V"
+    },
+    {
+        "sku": "STGS1011-B2",
+        "descricao": "Esmerilhadeira 1000W220V"
+    },
+    {
+        "sku": "STGS1011-BR",
+        "descricao": "Esmerilhadeira 1000W127V"
+    },
+    {
+        "sku": "STGS6115-B2",
+        "descricao": "Esmerilhadeira Angular600W 220V"
+    },
+    {
+        "sku": "STGS6115-BR",
+        "descricao": "Esmerilhadeira Angular600W 127V"
+    },
+    {
+        "sku": "STGS7115-B2",
+        "descricao": "Esmerilhadeira Ang.710W220V"
+    },
+    {
+        "sku": "STGS7115-BR",
+        "descricao": "Esmerilhadeira Ang.710W127V"
+    },
+    {
+        "sku": "STGS8115-B2",
+        "descricao": "Esmerilhadeira Ang.850W220V"
+    },
+    {
+        "sku": "stgs8115-br",
+        "descricao": "Esmerilhadeira Ang.850W127V"
+    },
+    {
+        "sku": "SL227-B2",
+        "descricao": "Esmerilhadeira Ang.7\"(180Mm) 2200W 220V"
+    },
+    {
+        "sku": "SL227-BR",
+        "descricao": "Esmerilhadeira Ang.7\"(180Mm) 2200W 127V"
+    },
+    {
+        "sku": "SL229-B2",
+        "descricao": "Esmerilhadeira Ang.9\"(230Mm) 2200W 220V"
+    },
+    {
+        "sku": "SL229-BR",
+        "descricao": "Esmerilhadeira Ang.9\"(230Mm) 2200W 127V"
+    },
+    {
+        "sku": "SBT2513-B2",
+        "descricao": "Furadeira De Bancada 1"
+    },
+    {
+        "sku": "SDH600B2",
+        "descricao": "Furadeira Imp.600W 13Mm 220V"
+    },
+    {
+        "sku": "SDH600-B2",
+        "descricao": "Furadeira Imp.600W 13Mm220V"
+    },
+    {
+        "sku": "SDH600BR",
+        "descricao": "Furadeira Imp.600W 13Mm 127V"
+    },
+    {
+        "sku": "SDH600-BR",
+        "descricao": "Furadeira Imp.600W 13Mm127V"
+    },
+    {
+        "sku": "SDH600KB2",
+        "descricao": "Furad.Imp.1"
+    },
+    {
+        "sku": "SDH600K-B2",
+        "descricao": "Furadeira Imp.600W 13Mm220V C"
+    },
+    {
+        "sku": "SDH600KBR",
+        "descricao": "Furad.Imp.1"
+    },
+    {
+        "sku": "SDH600K-BR",
+        "descricao": "Furadeira Imp.600W 13Mm127V C"
+    },
+    {
+        "sku": "SDH700B2",
+        "descricao": "Furadeira Imp.700W 13Mm 220V"
+    },
+    {
+        "sku": "SDH700-B2",
+        "descricao": "Furadeira Imp.700W 13Mm220V"
+    },
+    {
+        "sku": "SDH700BR",
+        "descricao": "Furadeira Imp.700W 13Mm 127V"
+    },
+    {
+        "sku": "SDH700-BR",
+        "descricao": "Furadeira Imp.700W 13Mm127V"
+    },
+    {
+        "sku": "SDH700K-B2",
+        "descricao": "Furadeira Imp.700W 13Mm220V C"
+    },
+    {
+        "sku": "SDH700KBR",
+        "descricao": "Furad.Imp.1"
+    },
+    {
+        "sku": "SDH700K-BR",
+        "descricao": "Furadeira Imp.700W 13Mm127V C"
+    },
+    {
+        "sku": "STDH6013-B2",
+        "descricao": "Furadeira De Impacto 600W 1"
+    },
+    {
+        "sku": "STDH6013-BR",
+        "descricao": "Furadeira De Impacto 600W 1"
+    },
+    {
+        "sku": "STDH7013-B2",
+        "descricao": "Furadeira Imp.1"
+    },
+    {
+        "sku": "STDH7013-BR",
+        "descricao": "Furadeira Imp.1"
+    },
+    {
+        "sku": "STDH7013K-B2",
+        "descricao": "Furadeira Imp.1"
+    },
+    {
+        "sku": "STDH7013K-BR",
+        "descricao": "Furadeira Imp.1"
+    },
+    {
+        "sku": "STDH8013-B2",
+        "descricao": "Furadeira De 13Mm 800W220V"
+    },
+    {
+        "sku": "STDH8013-BR",
+        "descricao": "Furadeira De 13Mm 800W127V"
+    },
+    {
+        "sku": "STDR5510-B2",
+        "descricao": "Furadeira 3"
+    },
+    {
+        "sku": "STDR5510-BR",
+        "descricao": "Furadeira 3"
+    },
+    {
+        "sku": "SBD20S2K-BR",
+        "descricao": "Paraf"
+    },
+    {
+        "sku": "SBD710C2K-BR",
+        "descricao": "Paraf"
+    },
+    {
+        "sku": "SBD715C2K-BR",
+        "descricao": "Paraf"
+    },
+    {
+        "sku": "SBH20S2K-BR",
+        "descricao": "Paraf"
+    },
+    {
+        "sku": "SBI20S2-BR",
+        "descricao": "Parafusadeira De Impacto 20V Brushless"
+    },
+    {
+        "sku": "SBI810D2K-BR",
+        "descricao": "Parafusad.Imp1"
+    },
+    {
+        "sku": "SCD121S1-BR",
+        "descricao": "Parafus"
+    },
+    {
+        "sku": "SCD121S2K-BR",
+        "descricao": "Parafus"
+    },
+    {
+        "sku": "SCD12S1-BR",
+        "descricao": "Parafus."
+    },
+    {
+        "sku": "SCD12S2K-B2",
+        "descricao": "Paraf"
+    },
+    {
+        "sku": "SCD12S2K-BR",
+        "descricao": "Paraf"
+    },
+    {
+        "sku": "SCD20c2K-B2",
+        "descricao": "Paraf"
+    },
+    {
+        "sku": "SCD20C2K-BR",
+        "descricao": "Paraf"
+    },
+    {
+        "sku": "SCD700C2K-BR",
+        "descricao": "Paraf"
+    },
+    {
+        "sku": "SCD711C1K-BR",
+        "descricao": "Paraf"
+    },
+    {
+        "sku": "SCD711C2K-BR",
+        "descricao": "Paraf"
+    },
+    {
+        "sku": "SCH121S1K-BR",
+        "descricao": "Paraf"
+    },
+    {
+        "sku": "SCH121S2K-BR",
+        "descricao": "Paraf"
+    },
+    {
+        "sku": "SCH12S1K-BR",
+        "descricao": "Paraf"
+    },
+    {
+        "sku": "SCH12S2K-B2",
+        "descricao": "Paraf"
+    },
+    {
+        "sku": "SCH12S2K-BR",
+        "descricao": "Paraf"
+    },
+    {
+        "sku": "SCH20C1K-BR",
+        "descricao": "Paraf"
+    },
+    {
+        "sku": "SCH20C2K-B2",
+        "descricao": "Paraf"
+    },
+    {
+        "sku": "SCH20C2K-BR",
+        "descricao": "Paraf"
+    },
+    {
+        "sku": "SCHI12C2K-B2",
+        "descricao": "Parafusad"
+    },
+    {
+        "sku": "SCHI12C2K-BR",
+        "descricao": "Paraf"
+    },
+    {
+        "sku": "SDC12S1-BR",
+        "descricao": "Parafus"
+    },
+    {
+        "sku": "STDC001LB-B2",
+        "descricao": "Parafusad.Bateria Ion Delitio 10.8V 220V"
+    },
+    {
+        "sku": "STDC001LB-BR",
+        "descricao": "Parafusad.Bateria Ion De"
+    },
+    {
+        "sku": "STDC012-BR",
+        "descricao": "Parafusad.Bat.Ion Litio12V Bivolt 2Bat"
+    },
+    {
+        "sku": "STDC18LHBK-BR",
+        "descricao": "Paraf"
+    },
+    {
+        "sku": "STDR5206-B2",
+        "descricao": "Parafusadeira P"
+    },
+    {
+        "sku": "STDR5206-BR",
+        "descricao": "Parafusadeira P"
+    },
+    {
+        "sku": "61316",
+        "descricao": "Inversor De Solda Mma 130A Max 220V 3200"
+    },
+    {
+        "sku": "61316-B2",
+        "descricao": "Inversora De Solda 130Amax Mma"
+    },
+    {
+        "sku": "61425",
+        "descricao": "Inversor De Solda Mma 160A Max 220V 4000"
+    },
+    {
+        "sku": "61425-B2",
+        "descricao": "Inversora De Solda 160Amax Mma"
+    },
+    {
+        "sku": "61720",
+        "descricao": "Inversor De Solda Mma 190A Max 220V 7000"
+    },
+    {
+        "sku": "61720-B2",
+        "descricao": "Inversora De Solda 190Amax Mma"
+    },
+    {
+        "sku": "67866-BR",
+        "descricao": "160A Welding Machine - Mu"
+    },
+    {
+        "sku": "67876-BR",
+        "descricao": "200A Welding Machine - Mu"
+    },
+    {
+        "sku": "SW19-B2",
+        "descricao": "Lavadora De Pressao 1900W 220V"
+    },
+    {
+        "sku": "SW19-BR",
+        "descricao": "Lavadora De Pressao 1600W 127V"
+    },
+    {
+        "sku": "SW21-B2",
+        "descricao": "Lavadora De Pressao 2100W 220V"
+    },
+    {
+        "sku": "SW21-BR",
+        "descricao": "Lavadora De Pressao 1800W 127V"
+    },
+    {
+        "sku": "SW22-B2",
+        "descricao": "Lavadora De Pressao 2100W 220V"
+    },
+    {
+        "sku": "SW22-BR",
+        "descricao": "Lavadora De Pressao 1900W 127V"
+    },
+    {
+        "sku": "SW25-B2",
+        "descricao": "Lavadora De Pressao 2800W Hpp 220V"
+    },
+    {
+        "sku": "SCE520-BR",
+        "descricao": "Inflador Íon De Lítio 20V Max* Bare - 127V"
+    },
+    {
+        "sku": "SCL020-B2",
+        "descricao": "Lanterna 20V Ion De Litio Bare"
+    },
+    {
+        "sku": "SCL030-B2",
+        "descricao": "Bare - 20V Area Light"
+    },
+    {
+        "sku": "PTP5092",
+        "descricao": "Combo Chave Impacto 1"
+    },
+    {
+        "sku": "SCS220C1S-BR",
+        "descricao": "Lixadeira Roto Orbital 125Mm 20V Max* Bivolt"
+    },
+    {
+        "sku": "SCS220-B2",
+        "descricao": "Lixadeira Roto Orbit.20Vmax S"
+    },
+    {
+        "sku": "SB90-B2",
+        "descricao": "Lixadeira De Cinta 900W220V"
+    },
+    {
+        "sku": "SB90-BR",
+        "descricao": "Lixadeira De Cinta 900W 127V"
+    },
+    {
+        "sku": "SSS310-B2",
+        "descricao": "Lixadeira 1"
+    },
+    {
+        "sku": "SSS310-BR",
+        "descricao": "Lixadeira 1"
+    },
+    {
+        "sku": "STEL401-B2",
+        "descricao": "Lixadeira Orbital 1"
+    },
+    {
+        "sku": "STEL401-BR",
+        "descricao": "Lixadeira Orbital 1"
+    },
+    {
+        "sku": "STGS7221-B2",
+        "descricao": "Lixadeira De Cinta 720W3\"X21\" 220V"
+    },
+    {
+        "sku": "STGS7221-BR",
+        "descricao": "Lixadeira De Cinta 720W3\"X21\" 127V"
+    },
+    {
+        "sku": "SS24-B2",
+        "descricao": "Lixadeira Orbital 1"
+    },
+    {
+        "sku": "SS24-BR",
+        "descricao": "Lixadeira Orbital 1"
+    },
+    {
+        "sku": "SS28-B2",
+        "descricao": "Lixadeira Orbital 280W220V"
+    },
+    {
+        "sku": "SS28-BR",
+        "descricao": "Lixadeira Orbital 280W127V"
+    },
+    {
+        "sku": "SS30-B2",
+        "descricao": "Lixadeira Roto Orbital300W 220V"
+    },
+    {
+        "sku": "SW75-B2",
+        "descricao": "Lixadeira De Parede 750W 220V"
+    },
+    {
+        "sku": "SW75-BR",
+        "descricao": "Lixadeira De Parede 750W 127V"
+    },
+    {
+        "sku": "SS30-BR",
+        "descricao": "Lixadeira Roto Orbital300W 127V"
+    },
+    {
+        "sku": "SBR20D1K-BR",
+        "descricao": "Martelet.Perf"
+    },
+    {
+        "sku": "SBR20D2K-BR",
+        "descricao": "Martelet.Perf"
+    },
+    {
+        "sku": "SBH900-B2",
+        "descricao": "Martelete Perf"
+    },
+    {
+        "sku": "SBH900D2K-BR",
+        "descricao": "Martelete Per"
+    },
+    {
+        "sku": "SBR20M1K-B2",
+        "descricao": "Martelete Sds Plus 20V Carregador 220V"
+    },
+    {
+        "sku": "SBR20M1K-BR",
+        "descricao": "Martelete Sds Plus 20V Carregador 110V"
+    },
+    {
+        "sku": "SHR263K-B2",
+        "descricao": "Martelete 800W 26Mm Sds220V"
+    },
+    {
+        "sku": "SHR263K-BR",
+        "descricao": "Martelete 800W 26Mm Sds127V"
+    },
+    {
+        "sku": "SHR264K-B2",
+        "descricao": "Martelete Sds Plus C"
+    },
+    {
+        "sku": "SHR264K-BR",
+        "descricao": "Martelete Sds Plus C"
+    },
+    {
+        "sku": "STEL503K-B2",
+        "descricao": "Martelete Sds Plus 720W22Mm 220V"
+    },
+    {
+        "sku": "STEL503K-BR",
+        "descricao": "Martelete Sds Plus 720W22Mm 127V"
+    },
+    {
+        "sku": "STEL506K-B2",
+        "descricao": "Martelete Sds Plus 2Kg750W 220V"
+    },
+    {
+        "sku": "STEL506K-BR",
+        "descricao": "Martelete Sds Plus 2Kg750W 127V"
+    },
+    {
+        "sku": "STHR1232K-B2",
+        "descricao": "Martelete Perfurador Sdsplus 1250W 220V"
+    },
+    {
+        "sku": "STHR1232K-BR",
+        "descricao": "Martelete Perfurador Sdsplus 1250W 127V"
+    },
+    {
+        "sku": "STHR202K-B2",
+        "descricao": "Martelete Perfurador Sdsplus 220V"
+    },
+    {
+        "sku": "STHR202K-BR",
+        "descricao": "Martelete Perfurador Sdsplus 127V"
+    },
+    {
+        "sku": "STHM10K-B2",
+        "descricao": "Martelo 10K Demolicao Sds Max"
+    },
+    {
+        "sku": "SHM5K-B2",
+        "descricao": "Martelo Rompedor Sds Max5Kg 1010W 220V"
+    },
+    {
+        "sku": "SHM5K-BR",
+        "descricao": "Martelo Rompedor Sds Max5Kg 1010W 127V"
+    },
+    {
+        "sku": "SDR1400-B2",
+        "descricao": "Misturador Elet.De Argamassa 1400W 220V"
+    },
+    {
+        "sku": "SDR1400-BR",
+        "descricao": "Misturador Elet.De Argamassa 1400W 127V"
+    },
+    {
+        "sku": "SCN616D1K-BR",
+        "descricao": "Pinador 16G 20V Max Bivolt"
+    },
+    {
+        "sku": "SCT500D1K-BR",
+        "descricao": "Multi Ferramenta Oscilante20V Max Bivolt"
+    },
+    {
+        "sku": "STPP7502-B2",
+        "descricao": "Plaina Eletrica 750W220V"
+    },
+    {
+        "sku": "STPP7502-BR",
+        "descricao": "Plaina Eletrica 750W127V"
+    },
+    {
+        "sku": "SP137K-B2",
+        "descricao": "Politriz De 7\"(178Mm) 1300W 220V"
+    },
+    {
+        "sku": "SP137K-BR",
+        "descricao": "Politriz De 7\"(178Mm) 1300W 127V"
+    },
+    {
+        "sku": "SPT137K-B2",
+        "descricao": "Politriz De 7\"(178Mm) 1300W 220V"
+    },
+    {
+        "sku": "SPT137K-BR",
+        "descricao": "Politriz De 7\"(178Mm) 1300W 127V"
+    },
+    {
+        "sku": "STGP1318K-B2",
+        "descricao": "Politriz 7\" 1300W 220V"
+    },
+    {
+        "sku": "STGP1318K-BR",
+        "descricao": "Politriz 7\" 1300W 127V"
+    },
+    {
+        "sku": "STGP612K-B2",
+        "descricao": "Politriz 5\" 600W 220V"
+    },
+    {
+        "sku": "STGP612K-BR",
+        "descricao": "Politriz 5\" 600W 127V"
+    },
+    {
+        "sku": "STEL861-B2",
+        "descricao": "Retificadeira 500W 220V"
+    },
+    {
+        "sku": "STEL861-BR",
+        "descricao": "Retificadeira 500W 127V"
+    },
+    {
+        "sku": "SPT115B2",
+        "descricao": "Serra Marmore 115Mm 1200W 220V"
+    },
+    {
+        "sku": "SPT115BR",
+        "descricao": "Serra Marmore 115Mm 1200W 127V"
+    },
+    {
+        "sku": "SPT115WAB2",
+        "descricao": "Serra Marmore 115Mm 220V Com 5 Discos"
+    },
+    {
+        "sku": "SPT115WABR",
+        "descricao": "Serra Marmore 115Mm 127V Com 5 Discos"
+    },
+    {
+        "sku": "STSP125-B2",
+        "descricao": "Serra Marmore 1270W 220V"
+    },
+    {
+        "sku": "STSP125-BR",
+        "descricao": "Serra Marmore 1270W 127V"
+    },
+    {
+        "sku": "STCT1820D1-BR",
+        "descricao": "Serra Sabre 20V Li-Ion Bivolt Com Maleta"
+    },
+    {
+        "sku": "STCT1860D1-BR",
+        "descricao": "Serra Tico Tico 20V Li-Ion Bivolt C"
+    },
+    {
+        "sku": "SCJ600D1K-BR",
+        "descricao": "Serra Tico - Tico 20V Max* Bivolt"
+    },
+    {
+        "sku": "SST1801-B2",
+        "descricao": "Serra De Bancada 1800W 10\" (254Mm) 220V"
+    },
+    {
+        "sku": "SST1801-BR",
+        "descricao": "Serra De Bancada 1800W 10\" (254Mm) 127V"
+    },
+    {
+        "sku": "STST1825-B2",
+        "descricao": "Serra De Bancada 1800W220V"
+    },
+    {
+        "sku": "STST1825-BR",
+        "descricao": "Serra De Bancada 1800W127V"
+    },
+    {
+        "sku": "SBC550D1K-BR",
+        "descricao": "Serra Circul.7-1"
+    },
+    {
+        "sku": "SC16-B2",
+        "descricao": "Serra Circular 7.1"
+    },
+    {
+        "sku": "SC16-BR",
+        "descricao": "Serra Circular 7.1"
+    },
+    {
+        "sku": "SC16D2-B2",
+        "descricao": "Serra Circular 7-1"
+    },
+    {
+        "sku": "SC16D2-BR",
+        "descricao": "Serra Circular 7-1"
+    },
+    {
+        "sku": "STCT1850D1-BR",
+        "descricao": "Serra Circular 6.1"
+    },
+    {
+        "sku": "STEL311-B2",
+        "descricao": "Serra Circular 1510W 185Mm 220V"
+    },
+    {
+        "sku": "STEL311-BR",
+        "descricao": "Serra Circular 1510W 185Mm 127V"
+    },
+    {
+        "sku": "STSC1718-B2",
+        "descricao": "Serra Circular 1700W220V"
+    },
+    {
+        "sku": "STSC1718-BR",
+        "descricao": "Serra Circular 1700W127V"
+    },
+    {
+        "sku": "SSC22-B2",
+        "descricao": "Serra De Corte Rapido2200W 220V"
+    },
+    {
+        "sku": "SSC22-BR",
+        "descricao": "Serra De Corte Rapido2200W 127V"
+    },
+    {
+        "sku": "STEL701-B2",
+        "descricao": "Serra De Corte Rapido2000W 220V"
+    },
+    {
+        "sku": "STEL701-BR",
+        "descricao": "Serra De Corte Rapido2000W 127V"
+    },
+    {
+        "sku": "SCM701-B2",
+        "descricao": "Serra De Esquadria 20V Max S"
+    },
+    {
+        "sku": "SM16-B2",
+        "descricao": "Serra De Esquadria 10\" 220V"
+    },
+    {
+        "sku": "SM16-BR",
+        "descricao": "Serra De Esquadria 10\" 127V"
+    },
+    {
+        "sku": "SM18-B2",
+        "descricao": "Serra De Esquadria C"
+    },
+    {
+        "sku": "SM18-BR",
+        "descricao": "Serra De Esquadria C"
+    },
+    {
+        "sku": "STSM1525-B2",
+        "descricao": "Serra Esquadria 1500W220V"
+    },
+    {
+        "sku": "STSM1525-BR",
+        "descricao": "Serra Esquadria 1500W127V"
+    },
+    {
+        "sku": "SCR300D1K-BR",
+        "descricao": "Serra Sabre 25Mm 20V Maxbivolt C"
+    },
+    {
+        "sku": "SCJ600-B2",
+        "descricao": "Serra T.Tico 20V Max Sem Bateria"
+    },
+    {
+        "sku": "SJ45-B2",
+        "descricao": "Serra Tico Tico 450W220V"
+    },
+    {
+        "sku": "SJ45-BR",
+        "descricao": "Serra Tico Tico 450W127V"
+    },
+    {
+        "sku": "SSJ45-B2",
+        "descricao": "Serra Tico Tico 450W220V"
+    },
+    {
+        "sku": "SSJ45-BR",
+        "descricao": "Serra Tico Tico 450W127V"
+    },
+    {
+        "sku": "STCT1860-B2",
+        "descricao": "Serra Tico Tico 20V Carregador 220V"
+    },
+    {
+        "sku": "STCT1860-BR",
+        "descricao": "Serra Tico Tico 20V Carregador 127V"
+    },
+    {
+        "sku": "STSJ0600-B2",
+        "descricao": "Serra Tico Tico 600W220V"
+    },
+    {
+        "sku": "STSJ0600-BR",
+        "descricao": "Serra Tico Tico 600W127V"
+    },
+    {
+        "sku": "STSJ0600K-B2",
+        "descricao": "Serra Tico Tico 600W220V"
+    },
+    {
+        "sku": "STSJ0600K-BR",
+        "descricao": "Serra Tico Tico 600W127V"
+    },
+    {
+        "sku": "STPT600-B2",
+        "descricao": "Soprador"
+    },
+    {
+        "sku": "STPT600-BR",
+        "descricao": "Soprador"
+    },
+    {
+        "sku": "SCE520-B2",
+        "descricao": "Inflador Íon De Lítio 20V Max* (Bare)"
+    },
+    {
+        "sku": "SCBL01-B2",
+        "descricao": "Bare - 20V Blower"
+    },
+    {
+        "sku": "SCX530-B2",
+        "descricao": "Bare - 20V Heatgun"
+    },
+    {
+        "sku": "SPT500-B2",
+        "descricao": "Soprador"
+    },
+    {
+        "sku": "SPT500-BR",
+        "descricao": "Soprador"
+    },
+    {
+        "sku": "STXH2000K-B2",
+        "descricao": "Soprador Termico 1800W220V C"
+    },
+    {
+        "sku": "STXH2000K-BR",
+        "descricao": "Soprador Termico 1800W127V C"
+    },
+    {
+        "sku": "SRR1200-B2",
+        "descricao": "Tupia Eletronica Colunas1200W 220V"
+    },
+    {
+        "sku": "SRR1200-BR",
+        "descricao": "Tupia Eletronica Colunas1200W 127V"
+    },
+    {
+        "sku": "STRR1200-B2",
+        "descricao": "Tupia Eletronica De Colunas 1200W 220V"
+    },
+    {
+        "sku": "STRR1200-BR",
+        "descricao": "Tupia Eletronica De Colunas 1200W 127V"
+    },
+    {
+        "sku": "ST55-B2",
+        "descricao": "Tupia P"
+    },
+    {
+        "sku": "ST55-BR",
+        "descricao": "Tupia P"
+    },
+    {
+        "sku": "STA0410F",
+        "descricao": "DISCO DE CORTE - METAL 4 1"
+    },
+    {
+        "sku": "STA0411F",
+        "descricao": "DISCO DE CORTE - METAL 7\" X 3,0mm X 7"
+    },
+    {
+        "sku": "STA0412F",
+        "descricao": "DISCO DE CORTE - METAL 9\" X 3,0mm X 7"
+    },
+    {
+        "sku": "STA8061",
+        "descricao": "DISCO DE CORTE FINO - METAL "
+    },
+    {
+        "sku": "STA8063",
+        "descricao": "DISCO DE CORTE FINO - METAL "
+    },
+    {
+        "sku": "STA8067",
+        "descricao": "DISCO DE CORTE FINO - METAL "
+    },
+    {
+        "sku": "STA8069",
+        "descricao": "DISCO DE CORTE FINO - METAL "
+    },
+    {
+        "sku": "STA8070",
+        "descricao": "DISCO DE CORTE MULTIMATERIAL 4 1"
+    },
+    {
+        "sku": "STA8011R-LA",
+        "descricao": "DISCO DE CORTE - METAL 14\" X 2,8mm X 1\""
+    },
+    {
+        "sku": "STA4521SF",
+        "descricao": "DISCO DE CORTE - INOX 4 1"
+    },
+    {
+        "sku": "STA4524SF",
+        "descricao": "DISCO DE CORTE - INOX 7\" X 3,0mm X 7"
+    },
+    {
+        "sku": "STA4525SF",
+        "descricao": "DISCO DE CORTE - INOX 9\" X 3,0mm X 7"
+    },
+    {
+        "sku": "STA0413",
+        "descricao": "DISCO DE DESBASTE - METAL 4 1"
+    },
+    {
+        "sku": "STA0414",
+        "descricao": "DISCO DE DESBASTE - METAL 7\" X 6,0mm X 7"
+    },
+    {
+        "sku": "STA0415",
+        "descricao": "DISCO DE DESBASTE - METAL 9\" X 6,0mm X 7"
+    },
+    {
+        "sku": "STA4040FZ",
+        "descricao": "DISCO FLAP FIBRA CON 4-1"
+    },
+    {
+        "sku": "STA4060FZ",
+        "descricao": "DISCO FLAP FIBRA CON 4-1"
+    },
+    {
+        "sku": "STA4080FZ",
+        "descricao": "DISCO FLAP FIBRA CON 4-1"
+    },
+    {
+        "sku": "STA4120FZ",
+        "descricao": "DISCO FLAP FIBRA CON 4-1"
+    },
+    {
+        "sku": "STA7040FZ",
+        "descricao": "DISCO FLAP FIBRA CON 7\" X 7"
+    },
+    {
+        "sku": "STA7060FZ",
+        "descricao": "DISCO FLAP FIBRA CON 7\" X 7"
+    },
+    {
+        "sku": "STA7080FZ",
+        "descricao": "DISCO FLAP FIBRA CON 7\" X 7"
+    },
+    {
+        "sku": "STA7120FZ",
+        "descricao": "DISCO FLAP FIBRA CON 7\" X 7"
+    },
+    {
+        "sku": "STA0080WS",
+        "descricao": "DISCO LIXA LIXADEIRA PAREDE GRÃO 80 PACOTE COM 5 LIXAS"
+    },
+    {
+        "sku": "STA0120WS",
+        "descricao": "DISCO LIXA LIXADEIRA PAREDE GRÃO 120 PACOTE COM 5 LIXAS"
+    },
+    {
+        "sku": "STA0180WS",
+        "descricao": "DISCO LIXA LIXADEIRA PAREDE GRÃO 180 PACOTE COM 5 LIXAS"
+    },
+    {
+        "sku": "STA6014MM",
+        "descricao": "PA MISTURADORA 600mm X 140mm"
+    },
+    {
+        "sku": "STA47400B",
+        "descricao": "DISCO DIAMANTADO 4\" 105mm - FURO 20mm - USO SERRA MÁRMORE - TURBO"
+    },
+    {
+        "sku": "STA47401B",
+        "descricao": "DISCO DIAMANTADO 4\" 105mm - FURO 20mm - USO SERRA MÁRMORE - CONTÍNUO"
+    },
+    {
+        "sku": "STA47402B",
+        "descricao": "DISCO DIAMANTADO 4\" 105mm - FURO 20mm - USO SERRA MÁRMORE - SEGMENTADO"
+    },
+    {
+        "sku": "STA7717",
+        "descricao": "LÂMINA DE SERRA CIRCULAR 7-1"
+    },
+    {
+        "sku": "STA7737",
+        "descricao": "LÂMINA DE SERRA CIRCULAR 7-1"
+    },
+    {
+        "sku": "STA7757",
+        "descricao": "LÂMINA DE SERRA CIRCULAR 7-1"
+    },
+    {
+        "sku": "STA7740",
+        "descricao": "LÂMINA DE SERRA ESQUADRIA 10\" 32 DENTES - FURO 5"
+    },
+    {
+        "sku": "STA7770",
+        "descricao": "LÂMINA DE SERRA ESQUADRIA  10\" 60 DENTES - FURO 5"
+    },
+    {
+        "sku": "STA53040B",
+        "descricao": "BROCA C"
+    },
+    {
+        "sku": "STA53050B",
+        "descricao": "BROCA C"
+    },
+    {
+        "sku": "STA53060B",
+        "descricao": "BROCA C"
+    },
+    {
+        "sku": "STA53070B",
+        "descricao": "BROCA C"
+    },
+    {
+        "sku": "STA53080B",
+        "descricao": "BROCA C"
+    },
+    {
+        "sku": "STA53110B",
+        "descricao": "BROCA C"
+    },
+    {
+        "sku": "STA53112B",
+        "descricao": "BROCA C"
+    },
+    {
+        "sku": "STA53030C",
+        "descricao": "BROCA C"
+    },
+    {
+        "sku": "STA53040C",
+        "descricao": "BROCA C"
+    },
+    {
+        "sku": "STA53050C",
+        "descricao": "BROCA C"
+    },
+    {
+        "sku": "STA53060C",
+        "descricao": "BROCA C"
+    },
+    {
+        "sku": "STA53065C",
+        "descricao": "BROCA C"
+    },
+    {
+        "sku": "STA53070C",
+        "descricao": "BROCA C"
+    },
+    {
+        "sku": "STA53080C",
+        "descricao": "BROCA C"
+    },
+    {
+        "sku": "STA53090C",
+        "descricao": "BROCA C"
+    },
+    {
+        "sku": "STA53110C",
+        "descricao": "BROCA C"
+    },
+    {
+        "sku": "STA53111C",
+        "descricao": "BROCA C"
+    },
+    {
+        "sku": "STA53112C",
+        "descricao": "BROCA C"
+    },
+    {
+        "sku": "STA53113C",
+        "descricao": "BROCA C"
+    },
+    {
+        "sku": "STA53114C",
+        "descricao": "BROCA C"
+    },
+    {
+        "sku": "STA53116C",
+        "descricao": "BROCA C"
+    },
+    {
+        "sku": "STA56065C",
+        "descricao": "BROCA C"
+    },
+    {
+        "sku": "STA56080C",
+        "descricao": "BROCA C"
+    },
+    {
+        "sku": "STA56100C",
+        "descricao": "BROCA C"
+    },
+    {
+        "sku": "STA56130C",
+        "descricao": "BROCA C"
+    },
+    {
+        "sku": "STA56160C",
+        "descricao": "BROCA C"
+    },
+    {
+        "sku": "STA50116B",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50564B",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50332B",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50764B",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50018B",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50964B",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50532B",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA51164B",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50316B",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA51364B",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50732B",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA51564B",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50014B",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA51764B",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50932B",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA51964B",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50516B",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA52164B",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA51132B",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA52364B",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50038B",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50716B",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50012B",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50916T",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50058T",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50010B",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50015B",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50020B",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50025B",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50030B",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50035B",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50040B",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50045B",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50050B",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50055B",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50060B",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50065B",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50070B",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50075B",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50080B",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50085B",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50090B",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50095B",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50100B",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50105B",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50110B",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50115B",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50120B",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50125B",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50130B",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50140T",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50150T",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50160T",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50116C",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50564C",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50332C",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50764C",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50018C",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50964C",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50532C",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA51164C",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50316C",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50732C",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50014C",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50516C",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50038C",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50015C",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50020C",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50025C",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50030C",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50035C",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50040C",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50045C",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50050C",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50055C",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50060C",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50070C",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50080C",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50100C",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50130C",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA51364C",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA51564C",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA52364C",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA51764C",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50932C",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA51964C",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA52164C",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA51132C",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50716C",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50012C",
+        "descricao": "BROCA AR HELICOIDAL ANSI B 94 11M P"
+    },
+    {
+        "sku": "STA50010C",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50065C",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50075C",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50085C",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50090C",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50095C",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50110C",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA50120C",
+        "descricao": "BROCA AR HELICOIDAL DIN 338 P"
+    },
+    {
+        "sku": "STA59001",
+        "descricao": "CONJUNTO BROCAS AR HELICOIDAIS STANLEY 5 PÇ 02.50 A 05.00 mm BL"
+    },
+    {
+        "sku": "STA59002",
+        "descricao": "CONJUNTO BROCAS AR HELICOIDAIS STANLEY 5 PÇ 3"
+    },
+    {
+        "sku": "STA59003",
+        "descricao": "CONJUNTO BROCAS AR HELICOIDAIS STANLEY 7 PÇ 02.00 A 06.00 mm BL"
+    },
+    {
+        "sku": "STA57014B",
+        "descricao": "BROCA CHATA P"
+    },
+    {
+        "sku": "STA57516B",
+        "descricao": "BROCA CHATA P"
+    },
+    {
+        "sku": "STA57038B",
+        "descricao": "BROCA CHATA P"
+    },
+    {
+        "sku": "STA57916B",
+        "descricao": "BROCA CHATA P"
+    },
+    {
+        "sku": "STA57058B",
+        "descricao": "BROCA CHATA P"
+    },
+    {
+        "sku": "STA57034B",
+        "descricao": "BROCA CHATA P"
+    },
+    {
+        "sku": "STA57078B",
+        "descricao": "BROCA CHATA P"
+    },
+    {
+        "sku": "STA57010B",
+        "descricao": "BROCA CHATA P"
+    },
+    {
+        "sku": "STA57012B",
+        "descricao": "BROCA CHATA P"
+    },
+    {
+        "sku": "STA55030C",
+        "descricao": "BROCA TRÊS PONTAS P"
+    },
+    {
+        "sku": "STA55040C",
+        "descricao": "BROCA TRÊS PONTAS P"
+    },
+    {
+        "sku": "STA55050C",
+        "descricao": "BROCA TRÊS PONTAS P"
+    },
+    {
+        "sku": "STA55060C",
+        "descricao": "BROCA TRÊS PONTAS P"
+    },
+    {
+        "sku": "STA55080C",
+        "descricao": "BROCA TRÊS PONTAS P"
+    },
+    {
+        "sku": "STA55100C",
+        "descricao": "BROCA TRÊS PONTAS P"
+    },
+    {
+        "sku": "STA55120C",
+        "descricao": "BROCA TRÊS PONTAS P"
+    },
+    {
+        "sku": "STA2130",
+        "descricao": "JOGO PARA PARAFUSAR 17 PEÇAS"
+    },
+    {
+        "sku": "STA7221-XJ",
+        "descricao": "JOGO PARA FURAR E PARAFUSAR 16 PEÇAS"
+    },
+    {
+        "sku": "STA7222-XJ",
+        "descricao": "JOGO PARA FURAR E PARAFUSAR 36 PEÇAS"
+    },
+    {
+        "sku": "STA7223-XJ",
+        "descricao": "JOGO PARA FURAR E PARAFUSAR 53 PEÇAS"
+    },
+    {
+        "sku": "STA4107-LAC",
+        "descricao": "JOGO PARA FURAR E PARAFUSAR 54 PEÇAS"
+    },
+    {
+        "sku": "STA9310",
+        "descricao": "JOGO DE LÂMINAS SERRA TICO TICO 16 PEÇAS"
+    },
+    {
+        "sku": "ST5005",
+        "descricao": "CJ.BROCAS MD 5PC 4.0A10.0MM BL STANLEY"
+    },
+    {
+        "sku": "ST5309",
+        "descricao": "CJ.BROCAS AR MD 3PTS 9PC 5A8MM BL STANLE"
+    },
+    {
+        "sku": "STA7122-XJ",
+        "descricao": "JOGO PARA PARAFUSAR 31 PEÇAS"
+    },
+    {
+        "sku": "STA47700L",
+        "descricao": "DISCO DIAMANTADO 7\" 180mm - FURO 22,2mm COM REDUTOR PARA 20mm - TURBO"
+    },
+    {
+        "sku": "STA47701L",
+        "descricao": "DISCO DIAMANTADO 7\" 180mm - FURO 22,2mm COM REDUTOR PARA 20mm - CONTÍNUO"
+    },
+    {
+        "sku": "STA47702L",
+        "descricao": "DISCO DIAMANTADO 7\" 180mm - FURO 22,2mm COM REDUTOR PARA 20mm - SEGMENTADO"
+    },
+    {
+        "sku": "STA47900L",
+        "descricao": "DISCO DIAMANTADO 9\" 230mm - FURO 22,2mm COM REDUTOR PARA 20mm - TURBO"
+    },
+    {
+        "sku": "STA47901L",
+        "descricao": "DISCO DIAMANTADO 9\" 230mm - FURO 22,2mm COM REDUTOR PARA 20mm - CONTÍNUO"
+    },
+    {
+        "sku": "STA47902L",
+        "descricao": "DISCO DIAMANTADO 9\" 230mm - FURO 22,2mm COM REDUTOR PARA 20mm - SEGMENTADO"
+    },
+    {
+        "sku": "DCD701B-B3",
+        "descricao": "PARAF"
+    },
+    {
+        "sku": "DCD706F2-BR",
+        "descricao": "PARAF"
+    },
+    {
+        "sku": "DCF801B-B3",
+        "descricao": "PARAF.IMPACTO 1"
+    },
+    {
+        "sku": "DCF902B-B3",
+        "descricao": "CHAVE DE IMPACTO 3"
+    },
+    {
+        "sku": "DCH072B-B3",
+        "descricao": "MARTELETE SDS+9"
+    },
+    {
+        "sku": "DCK225F2-BR",
+        "descricao": "COMBO PARAF"
+    },
+    {
+        "sku": "DCD703F2-BR",
+        "descricao": "PARAF"
+    },
+    {
+        "sku": "DCL040",
+        "descricao": "LANTERNA LED PROF COMPACTA 20V MAX S"
+    },
+    {
+        "sku": "DCL043",
+        "descricao": "LANTERNA LED PROF SPOTLIGHT 20V MAX S"
+    },
+    {
+        "sku": "DCL044",
+        "descricao": "LANTERNA LED PROF ARTICULADA 20V MAX S"
+    },
+    {
+        "sku": "DCL045B",
+        "descricao": "SABRE DE LED PROF 12V"
+    },
+    {
+        "sku": "DCL050",
+        "descricao": "LANTERNA LED PROF PORTÁTIL 20V MAX S"
+    },
+    {
+        "sku": "DCV501HB-B3",
+        "descricao": "ASPIRAD DE PÓ (SECO) PORTÁTIL 20V MAX S"
+    },
+    {
+        "sku": "DCV5011H-B3",
+        "descricao": "FILTRO HEPA ASPIRADOR DCV501HB-B3"
+    },
+    {
+        "sku": "DCK279D1E1-BR",
+        "descricao": "COMBO ATOMIC DCD709+DCF809+1BAT 2AH+ 1BAT PWRSTACK, CRGD BIV + BOLSA TRANSP"
+    },
+    {
+        "sku": "DCBP034E2-BR",
+        "descricao": "KIT 2 BATERIAS 1.7Ah POWERSTACK 20V MAX C"
+    },
+    {
+        "sku": "DCD796E1-BR",
+        "descricao": "PARAF"
+    },
+    {
+        "sku": "DCD800B-B3",
+        "descricao": "PARAF"
+    },
+    {
+        "sku": "DCD800D2-BR",
+        "descricao": "PARAF"
+    },
+    {
+        "sku": "DCD805B-B3",
+        "descricao": "PARAFUSADEIRA"
+    },
+    {
+        "sku": "DCD805D2-BR",
+        "descricao": "PARAF"
+    },
+    {
+        "sku": "DCD776BB3",
+        "descricao": "PARAF"
+    },
+    {
+        "sku": "DCD7781B-B3",
+        "descricao": "PARAF"
+    },
+    {
+        "sku": "DCD796B-B3",
+        "descricao": "PARAF"
+    },
+    {
+        "sku": "DCH133B-B3",
+        "descricao": "MARTELETE ROMPEDOR 20V MAX BRUSHLESS, SEM BATERIA E SEM CARREGADOR"
+    },
+    {
+        "sku": "DCH172B-B3",
+        "descricao": "MARTELETE PERFURADOR ATOMIC SDS-PLUS 5"
+    },
+    {
+        "sku": "DCH273B",
+        "descricao": "MARTELO PERFURADOR"
+    },
+    {
+        "sku": "DCD700LC1BR",
+        "descricao": "PARAF"
+    },
+    {
+        "sku": "DCD700C2BR",
+        "descricao": "PARAF"
+    },
+    {
+        "sku": "DCD716D2-BR",
+        "descricao": "PARAF"
+    },
+    {
+        "sku": "DCD709D2-BR",
+        "descricao": "ATOMIC - PARAF"
+    },
+    {
+        "sku": "DCD776C2BR",
+        "descricao": "PARAFUS"
+    },
+    {
+        "sku": "DCD776LC1BR",
+        "descricao": "PARAFUS"
+    },
+    {
+        "sku": "DCD7781D2-BR",
+        "descricao": "PARAF"
+    },
+    {
+        "sku": "DCD7781D1-BR",
+        "descricao": "PARAF"
+    },
+    {
+        "sku": "DCK199C2-BR",
+        "descricao": "COMBO DCD700 + DCF805, 12V MAX LI-ION, 2 BATERIAS 1.3AH, CARREGADOR BIVOLTA E BOLSA"
+    },
+    {
+        "sku": "DCK201C2-BR",
+        "descricao": "COMBO DCD700 + DCF805, 12V MAX LI-ION, 2 BATERIAS 1.3AH, CARREG. BIVOLT E MALETA ACRILICA \"T-STAK\""
+    },
+    {
+        "sku": "DCK202C2T-BR",
+        "descricao": "COMBO DCD716 + DCF805, 12V MAX LI-ION. 2 BATERIAS 1.3Ah, CARREG. BIVOLT + CAIXA TSTAK"
+    },
+    {
+        "sku": "DCK205D2T-BR",
+        "descricao": "COMBO DCD716 + DCE088, 12V MAX LI-ION. 2 BATERIAS 2Ah, CARREG. BIVOLT + CAIXA TSTAK"
+    },
+    {
+        "sku": "DCK222D2T-BR",
+        "descricao": "COMBO DCD776 + DCF885, 20V MAX LI-ION. 2 BATERIAS 2Ah, CARREG. BIVOLT + CAIXA TSTAK"
+    },
+    {
+        "sku": "DCK246D2T-BR",
+        "descricao": "COMBO DCF620 + DCE088, BATERIA 12V 2Ah(1) + BATERIA 20V 2Ah(1) CARREG. BIVOLT + CAIXA TSTAK"
+    },
+    {
+        "sku": "DCK260D1P1T-BR",
+        "descricao": "COMBO KIT DCH133+DCF7871 20V+MALET.TSTAK"
+    },
+    {
+        "sku": "DCK276D2-BR",
+        "descricao": "COMBO KIT DCD7781+DCF7871 20V+SOFTBAG"
+    },
+    {
+        "sku": "DCK279D2-BR",
+        "descricao": "COMBO ATOMIC DCD709 + DCF809, 20V MAX LI-ION. 2 BATERIAS 2Ah, CARREG. BIVOLT + BOLSA"
+    },
+    {
+        "sku": "DCBP034-B3",
+        "descricao": "BATERIA COMPACTA 20V MAX 1.7AH POWERSTACK"
+    },
+    {
+        "sku": "DCB203C2-BR",
+        "descricao": "KIT 2 BATERIAS 2Ah 20V MAX C"
+    },
+    {
+        "sku": "DCB205C2K-BR",
+        "descricao": "KIT 2 BATERIAS 5Ah 20V C"
+    },
+    {
+        "sku": "DWD502B2",
+        "descricao": "FURADEIRA DE IMPACTO 1"
+    },
+    {
+        "sku": "DWD502BR",
+        "descricao": "FURADEIRA DE IMPACTO 1"
+    },
+    {
+        "sku": "DWD502SWBR",
+        "descricao": "FURADEIRA DE IMPACTO 1"
+    },
+    {
+        "sku": "DWD502SWB2",
+        "descricao": "FURADEIRA DE IMPACTO 1"
+    },
+    {
+        "sku": "DWD502KB2",
+        "descricao": "FURADEIRA DE IMPACTO 1"
+    },
+    {
+        "sku": "DWD502KBR",
+        "descricao": "FURADEIRA DE IMPACTO 1"
+    },
+    {
+        "sku": "DWD502KAB2",
+        "descricao": "COMBO FURAD.IMP.1"
+    },
+    {
+        "sku": "DWD502KABR",
+        "descricao": "COMBO FURAD.IMP.1"
+    },
+    {
+        "sku": "D25133KB2",
+        "descricao": "MARTELETE PERF"
+    },
+    {
+        "sku": "D25133KBR",
+        "descricao": "MARTELETE PERF"
+    },
+    {
+        "sku": "DWE4010-BR",
+        "descricao": "ESMERILHADEIRA 4 1"
+    },
+    {
+        "sku": "DWE4010-B2",
+        "descricao": "ESMERILHADEIRA 4 1"
+    },
+    {
+        "sku": "DWE4010K-B2",
+        "descricao": "ESMERILHADEIRA 4 1"
+    },
+    {
+        "sku": "DWE4010K-BR",
+        "descricao": "ESMERILHADEIRA 4 1"
+    },
+    {
+        "sku": "DWE4020BR",
+        "descricao": "ESMERILHADEIRA 4 1"
+    },
+    {
+        "sku": "DWE4020B2B",
+        "descricao": "ESMERILHADEIRA 4 1"
+    },
+    {
+        "sku": "DWE491B2",
+        "descricao": "ESMERILHADEIRA 7\" (180MM) 2.200W, 8.500 RPM, 220V (NACIONAL)"
+    },
+    {
+        "sku": "DWE491BR",
+        "descricao": "ESMERILHADEIRA 7\" (180MM) 2.200W, 8.500 RPM, 127V (NACIONAL)"
+    },
+    {
+        "sku": "DWE490B2",
+        "descricao": "ESMERILHADEIRA 9\" (230MM) 2.200W, 6.500 RPM, 220V (NACIONAL)"
+    },
+    {
+        "sku": "DWE490BR",
+        "descricao": "ESMERILHADEIRA 9\" (230MM) 2.200W, 6.500 RPM, 220V (NACIONAL)"
+    },
+    {
+        "sku": "DWP849XBR",
+        "descricao": "LIXADEIRA "
+    },
+    {
+        "sku": "DWP849XB2",
+        "descricao": "LIXADEIRA "
+    },
+    {
+        "sku": "DW862B2",
+        "descricao": "SERRA MÁRMORE 4 3"
+    },
+    {
+        "sku": "DW862BR",
+        "descricao": "SERRA MÁRMORE 4 3"
+    },
+    {
+        "sku": "DW862WB2",
+        "descricao": "SERRA MÁRMORE 4 3"
+    },
+    {
+        "sku": "DW862WBR",
+        "descricao": "SERRA MÁRMORE 4 3"
+    },
+    {
+        "sku": "DW862WAB2",
+        "descricao": "SERRA MÁRMORE 4 3"
+    },
+    {
+        "sku": "DW862WABR",
+        "descricao": "SERRA MÁRMORE 4 3"
+    },
+    {
+        "sku": "DWE560B2",
+        "descricao": "SERRA CIRCULAR 7 1"
+    },
+    {
+        "sku": "DWE560BR",
+        "descricao": "SERRA CIRCULAR 7 1"
+    },
+    {
+        "sku": "DWE300B2",
+        "descricao": "SERRA TICO-TICO VEL.VARIÁVEL 650W, AÇÃO PENDULAR E ENGATE RÁPIDO, 220V (NACIONAL)"
+    },
+    {
+        "sku": "DWE300BR",
+        "descricao": "SERRA TICO-TICO VEL.VARIÁVEL 650W, AÇÃO PENDULAR E ENGATE RÁPIDO, 127V (NACIONAL)"
+    },
+    {
+        "sku": "DW714-B2",
+        "descricao": "SERRA DE MEIA ESQUADRIA 10\" (254MM) 1.650W, C"
+    },
+    {
+        "sku": "DW714-BR",
+        "descricao": "SERRA DE MEIA ESQUADRIA 10\" (254MM) 1.650W, C"
+    },
+    {
+        "sku": "DWE7470-B2",
+        "descricao": "SERRA DE MESA 10\" (254MM) 1.800W, 4.000 RPM, C"
+    },
+    {
+        "sku": "DWE7470-BR",
+        "descricao": "SERRA DE MESA 10\" (254MM) 1.800W, 4.000 RPM, C"
+    },
+    {
+        "sku": "DWE7492-B2",
+        "descricao": "SERRA DE MESA 10\" (254mm) 2.000W, 4.800 RPM, C"
+    },
+    {
+        "sku": "DW733-B2",
+        "descricao": "DESENGROSSADEIRA PORTATIL 1800W, 220V"
+    },
+    {
+        "sku": "DWE6411B2",
+        "descricao": "LIXADEIRA ORBITAL 1"
+    },
+    {
+        "sku": "DWE6411BR",
+        "descricao": "LIXADEIRA ORBITAL 1"
+    },
+    {
+        "sku": "DWE6421-B2",
+        "descricao": "LIXADEIRA ROTO ORBITAL DE 5\" (125MM) 280W, 220V"
+    },
+    {
+        "sku": "DWE6421-BR",
+        "descricao": "LIXADEIRA ROTO ORBITAL DE 5\" (125MM) 280W, 127V"
+    },
+    {
+        "sku": "DW84401",
+        "descricao": "DISCO CORTE INOX HP2 4 1"
+    },
+    {
+        "sku": "DW84407",
+        "descricao": "DISCO CORTE INOX HP2 4 1"
+    },
+    {
+        "sku": "DW84402",
+        "descricao": "DISCO CORTE INOX HP2 4 1"
+    },
+    {
+        "sku": "DW84405",
+        "descricao": "DISCO DESBASTE METAL HP2 4 1"
+    },
+    {
+        "sku": "DW80403",
+        "descricao": "DISCO DESBASTE"
+    },
+    {
+        "sku": "DW80408",
+        "descricao": "DISCO 3 EM 1 CORTE"
+    },
+    {
+        "sku": "DW44530",
+        "descricao": "DISCO DE CORTE - METAL 4 1"
+    },
+    {
+        "sku": "DW44540",
+        "descricao": "DISCO DE DESBASTE - METAL 4 1"
+    },
+    {
+        "sku": "DW44800",
+        "descricao": "DISCO DE CORTE FINO - METAL "
+    },
+    {
+        "sku": "DW44810",
+        "descricao": "DISCO DE DESBASTE - INOX 4 1"
+    },
+    {
+        "sku": "DW8062",
+        "descricao": "DISCO DE CORTE FINO - METAL "
+    },
+    {
+        "sku": "DW8062-AR",
+        "descricao": "DISCO DE CORTE FINO - METAL "
+    },
+    {
+        "sku": "DW44710",
+        "descricao": "DISCO DE CORTE P"
+    },
+    {
+        "sku": "DW8408T",
+        "descricao": "FLAP DUAL-TRIM 4 1"
+    },
+    {
+        "sku": "DW8409T",
+        "descricao": "FLAP DUAL-TRIM 4 1"
+    },
+    {
+        "sku": "DW8410T",
+        "descricao": "FLAP DUAL-TRIM 4 1"
+    },
+    {
+        "sku": "DW8411T",
+        "descricao": "FLAP DUAL-TRIM 4 1"
+    },
+    {
+        "sku": "DW8307-AR",
+        "descricao": "DISCO FLAP FIBRA CON 4 1"
+    },
+    {
+        "sku": "DW8308-AR",
+        "descricao": "DISCO FLAP FIBRA CON 4 1"
+    },
+    {
+        "sku": "DW8309-AR",
+        "descricao": "DISCO FLAP FIBRA CON 4 1"
+    },
+    {
+        "sku": "DW8310-AR",
+        "descricao": "DISCO FLAP FIBRA COM 4 1"
+    },
+    {
+        "sku": "DW8307P-AR",
+        "descricao": "DISCO FLAP PLÁSTICO RETO 4 1"
+    },
+    {
+        "sku": "DW8308P-AR",
+        "descricao": "DISCO FLAP PLÁSTICO RETO 4 1"
+    },
+    {
+        "sku": "DW8309P-AR",
+        "descricao": "DISCO FLAP PLÁSTICO RETO 4 1"
+    },
+    {
+        "sku": "DW8310P-AR",
+        "descricao": "DISCO FLAP PLÁSTICO RETO 4 1"
+    },
+    {
+        "sku": "DW84705",
+        "descricao": "DISCO CORTE INOX HP2 7\" X 1,6MM X 7"
+    },
+    {
+        "sku": "DW84706",
+        "descricao": "DISCO CORTE INOX HP2 7\" X 1,9MM X 7"
+    },
+    {
+        "sku": "DW84704",
+        "descricao": "DISCO CORTE INOX HP2 7\" X 3,2MM X 7"
+    },
+    {
+        "sku": "DW84703",
+        "descricao": "DISCO DESBASTE METAL HP2 7\" X 6,4MM X 7"
+    },
+    {
+        "sku": "DW80702",
+        "descricao": "DISCO DESBASTE"
+    },
+    {
+        "sku": "DW44560",
+        "descricao": "DISCO DE CORTE - METAL 7\" X 3,2MM X 7"
+    },
+    {
+        "sku": "DW44580",
+        "descricao": "DISCO DE DESBASTE - METAL 7\" X 6,3MM X 7"
+    },
+    {
+        "sku": "DW44801",
+        "descricao": "DISCO DE CORTE FINO - METAL "
+    },
+    {
+        "sku": "DW44811",
+        "descricao": "DISCO DE DESBASTE - INOX 7\" X 6,3MM X 7"
+    },
+    {
+        "sku": "DW8065-AR",
+        "descricao": "DISCO DE CORTE FINO - METAL "
+    },
+    {
+        "sku": "DW44740",
+        "descricao": "DISCO DE CORTE P"
+    },
+    {
+        "sku": "DW8422T",
+        "descricao": "FLAP DUAL-TRIM 7\" X 7"
+    },
+    {
+        "sku": "DW8423T",
+        "descricao": "FLAP DUAL-TRIM 7\" X 7"
+    },
+    {
+        "sku": "DW8424T",
+        "descricao": "FLAP DUAL-TRIM 7\" X 7"
+    },
+    {
+        "sku": "DW8425T",
+        "descricao": "FLAP DUAL-TRIM 7\" X 7"
+    },
+    {
+        "sku": "DW8322-AR",
+        "descricao": "DISCO FLAP FIBRA CON 7\" X 7"
+    },
+    {
+        "sku": "DW8323-AR",
+        "descricao": "DISCO FLAP FIBRA CON 7\" X 7"
+    },
+    {
+        "sku": "DW8324-AR",
+        "descricao": "DISCO FLAP FIBRA CON 7\" X 7"
+    },
+    {
+        "sku": "DW8325-AR",
+        "descricao": "DISCO FLAP FIBRA CON 7\" X 7"
+    },
+    {
+        "sku": "DW8322P-AR",
+        "descricao": "DISCO FLAP PLÁSTICO RETO 7\" X 7"
+    },
+    {
+        "sku": "DW8323P-AR",
+        "descricao": "DISCO FLAP PLÁSTICO RETO 7\" X 7"
+    },
+    {
+        "sku": "DW8324P-AR",
+        "descricao": "DISCO FLAP PLÁSTICO RETO 7\" X 7"
+    },
+    {
+        "sku": "DW8325P-AR",
+        "descricao": "DISCO FLAP PLÁSTICO RETO 7\" X 7"
+    },
+    {
+        "sku": "DW84902",
+        "descricao": "DISCO CORTE INOX HP2 9\" X 2,0MM X 7"
+    },
+    {
+        "sku": "DW84904",
+        "descricao": "DISCO CORTE INOX HP2 - 9\" X 3,2MM X 7"
+    },
+    {
+        "sku": "DW84903",
+        "descricao": "DISCO DESBASTE METAL HP2 9\" X 6,4MM X 7"
+    },
+    {
+        "sku": "DW44600",
+        "descricao": "DISCO DE CORTE - METAL 9\" X 3,2MM X 7"
+    },
+    {
+        "sku": "DW44610",
+        "descricao": "DISCO DE DESBASTE - METAL 9\" X 6,3MM X 7"
+    },
+    {
+        "sku": "DW44802",
+        "descricao": "DISCO DE CORTE FINO - METAL "
+    },
+    {
+        "sku": "DW44613",
+        "descricao": "DISCO DE DESBASTE - INOX 9\" X 6,3MM X 7"
+    },
+    {
+        "sku": "DW8067-AR",
+        "descricao": "DISCO DE CORTE FINO - METAL "
+    },
+    {
+        "sku": "DW44780",
+        "descricao": "DISCO DE CORTE P"
+    },
+    {
+        "sku": "DWA171424",
+        "descricao": "LAMINA SERRA CIRCULAR 7 1"
+    },
+    {
+        "sku": "DWA171460",
+        "descricao": "LAMINA SERRA CIRCULAR 7 1"
+    },
+    {
+        "sku": "DW1570  Y",
+        "descricao": "BROCA CHATA PARA MADEIRA 1"
+    },
+    {
+        "sku": "DW1571  Y",
+        "descricao": "BROCA CHATA PARA MADEIRA 5"
+    },
+    {
+        "sku": "DW1572  Y",
+        "descricao": "BROCA CHATA PARA MADEIRA 3"
+    },
+    {
+        "sku": "DW1573  Y",
+        "descricao": "BROCA CHATA PARA MADEIRA 7"
+    },
+    {
+        "sku": "DW1574  Y",
+        "descricao": "BROCA CHATA PARA MADEIRA 1"
+    },
+    {
+        "sku": "DW1575  Y",
+        "descricao": "BROCA CHATA PARA MADEIRA 9"
+    },
+    {
+        "sku": "DW1576  Y",
+        "descricao": "BROCA CHATA PARA MADEIRA 5"
+    },
+    {
+        "sku": "DW1577  Y",
+        "descricao": "BROCA CHATA PARA MADEIRA 11"
+    },
+    {
+        "sku": "DW1578  Y",
+        "descricao": "BROCA CHATA PARA MADEIRA 3"
+    },
+    {
+        "sku": "DW1579  Y",
+        "descricao": "BROCA CHATA PARA MADEIRA 13"
+    },
+    {
+        "sku": "DW1582  Y",
+        "descricao": "BROCA CHATA PARA MADEIRA 1\" X 6\""
+    },
+    {
+        "sku": "DW1583  Y",
+        "descricao": "BROCA CHATA PARA MADEIRA 1-1"
+    },
+    {
+        "sku": "DW1584  Y",
+        "descricao": "BROCA CHATA PARA MADEIRA 1-1"
+    },
+    {
+        "sku": "DW1585  Y",
+        "descricao": "BROCA CHATA PARA MADEIRA 1-3"
+    },
+    {
+        "sku": "DW1590  Y",
+        "descricao": "BROCA CHATA PARA MADEIRA 3"
+    },
+    {
+        "sku": "DW1594  Y",
+        "descricao": "BROCA CHATA PARA MADEIRA 7"
+    },
+    {
+        "sku": "DW1595  Y",
+        "descricao": "BROCA CHATA PARA MADEIRA 1\" X 16\""
+    },
+    {
+        "sku": "DT4503-QZ",
+        "descricao": "BROCA 3 PONTAS PARA MADEIRA 3X70mm"
+    },
+    {
+        "sku": "DT4504-QZ",
+        "descricao": "BROCA 3 PONTAS PARA MADEIRA 4X80mm"
+    },
+    {
+        "sku": "DT4505-QZ",
+        "descricao": "BROCA 3 PONTAS PARA MADEIRA 5X90mm"
+    },
+    {
+        "sku": "DT4506-QZ",
+        "descricao": "BROCA 3 PONTAS PARA MADEIRA 6X100mm"
+    },
+    {
+        "sku": "DT4508-QZ",
+        "descricao": "BROCA 3 PONTAS PARA MADEIRA 8X120mm"
+    },
+    {
+        "sku": "DT4509-QZ",
+        "descricao": "BROCA 3 PONTAS PARA MADEIRA 9X130mm"
+    },
+    {
+        "sku": "DT4510-QZ",
+        "descricao": "BROCA 3 PONTAS PARA MADEIRA 10X133mm"
+    },
+    {
+        "sku": "DT4511-QZ",
+        "descricao": "BROCA 3 PONTAS PARA MADEIRA 11X150mm"
+    },
+    {
+        "sku": "DT4512-QZ",
+        "descricao": "BROCA 3 PONTAS PARA MADEIRA 12X155mm"
+    },
+    {
+        "sku": "DT4513-QZ",
+        "descricao": "BROCA 3 PONTAS PARA MADEIRA 13X155mm"
+    },
+    {
+        "sku": "DT4514-QZ",
+        "descricao": "BROCA 3 PONTAS PARA MADEIRA 14X160mm"
+    },
+    {
+        "sku": "DT4516-QZ",
+        "descricao": "BROCA 3 PONTAS PARA MADEIRA 16X165mm"
+    },
+    {
+        "sku": "DT4518-QZ",
+        "descricao": "BROCA 3 PONTAS PARA MADEIRA 18X200mm"
+    },
+    {
+        "sku": "DT4520-QZ",
+        "descricao": "BROCA 3 PONTAS PARA MADEIRA 20X200mm"
+    },
+    {
+        "sku": "DWA30005G",
+        "descricao": "BROCA AÇO RÁPIDO 0.50 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30012G",
+        "descricao": "BROCA AÇO RÁPIDO 1.25 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30075G",
+        "descricao": "BROCA AÇO RÁPIDO 1.75 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30275G",
+        "descricao": "BROCA AÇO RÁPIDO 2.75 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30375G",
+        "descricao": "BROCA AÇO RÁPIDO 3.75 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30475G",
+        "descricao": "BROCA AÇO RÁPIDO 4.75 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30575G",
+        "descricao": "BROCA AÇO RÁPIDO 5.75 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30775G",
+        "descricao": "BROCA AÇO RÁPIDO 7.75 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30925G",
+        "descricao": "BROCA AÇO RÁPIDO 9.25 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30975G",
+        "descricao": "BROCA AÇO RÁPIDO 9.75 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30102G",
+        "descricao": "BROCA AÇO RÁPIDO 10.25 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30117G",
+        "descricao": "BROCA AÇO RÁPIDO 11.75 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30122G",
+        "descricao": "BROCA AÇO RÁPIDO 12.25 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30127G",
+        "descricao": "BROCA AÇO RÁPIDO 12.75 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30010G",
+        "descricao": "BROCA AÇO RÁPIDO 1.00 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30015G",
+        "descricao": "BROCA AÇO RÁPIDO 1.50 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30200G",
+        "descricao": "BROCA AÇO RÁPIDO 2.00 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30250G",
+        "descricao": "BROCA AÇO RÁPIDO 2.50 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30300G",
+        "descricao": "BROCA AÇO RÁPIDO 3.00 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30350G",
+        "descricao": "BROCA AÇO RÁPIDO 3.50 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30400G",
+        "descricao": "BROCA AÇO RÁPIDO 4.00 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30450G",
+        "descricao": "BROCA AÇO RÁPIDO 4.50 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30500G",
+        "descricao": "BROCA AÇO RÁPIDO 5.00mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30550G",
+        "descricao": "BROCA AÇO RÁPIDO 5.50 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30600G",
+        "descricao": "BROCA AÇO RÁPIDO 6.00mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30650G",
+        "descricao": "BROCA AÇO RÁPIDO 6.50 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30700G",
+        "descricao": "BROCA AÇO RÁPIDO 7.00 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30750G",
+        "descricao": "BROCA AÇO RÁPIDO 7.50 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30800G",
+        "descricao": "BROCA AÇO RÁPIDO 8.00 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30825G",
+        "descricao": "BROCA AÇO RÁPIDO 8.25 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30850G",
+        "descricao": "BROCA AÇO RÁPIDO 8.50 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30900G",
+        "descricao": "BROCA AÇO RÁPIDO 9.00 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30950G",
+        "descricao": "BROCA AÇO RÁPIDO 9.50 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30100G",
+        "descricao": "BROCA AÇO RÁPIDO 10.00 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30105G",
+        "descricao": "BROCA AÇO RÁPIDO 10.50 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30107G",
+        "descricao": "BROCA AÇO RÁPIDO 10.75 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30110G",
+        "descricao": "BROCA AÇO RÁPIDO 11.00 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30115G",
+        "descricao": "BROCA AÇO RÁPIDO 11.50 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30120G",
+        "descricao": "BROCA AÇO RÁPIDO 12.00 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30125G",
+        "descricao": "BROCA AÇO RÁPIDO 12.50 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30130G",
+        "descricao": "BROCA AÇO RÁPIDO 13.00 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30135G",
+        "descricao": "BROCA AÇO RÁPIDO 13.50 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30140G",
+        "descricao": "BROCA AÇO RÁPIDO 14.00 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30145G",
+        "descricao": "BROCA AÇO RÁPIDO 14.50 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30150G",
+        "descricao": "BROCA AÇO RÁPIDO 15.00 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30160G",
+        "descricao": "BROCA AÇO RÁPIDO 16.00 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30170G",
+        "descricao": "BROCA AÇO RÁPIDO 17.00 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30180G",
+        "descricao": "BROCA AÇO RÁPIDO 18.00 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA30199G",
+        "descricao": "BROCA AÇO RÁPIDO 20.00 mm GOLD FERROUS"
+    },
+    {
+        "sku": "DWA32116G",
+        "descricao": "BROCA AÇO RÁPIDO 1"
+    },
+    {
+        "sku": "DWA32641G",
+        "descricao": "BROCA AÇO RÁPIDO 5"
+    },
+    {
+        "sku": "DWA32642G",
+        "descricao": "BROCA AÇO RÁPIDO 7"
+    },
+    {
+        "sku": "DWA32018G",
+        "descricao": "BROCA AÇO RÁPIDO 1"
+    },
+    {
+        "sku": "DWA32643G",
+        "descricao": "BROCA AÇO RÁPIDO 9"
+    },
+    {
+        "sku": "DWA32532G",
+        "descricao": "BROCA AÇO RÁPIDO 5"
+    },
+    {
+        "sku": "DWA32644G",
+        "descricao": "BROCA AÇO RÁPIDO 11"
+    },
+    {
+        "sku": "DWA32316G",
+        "descricao": "BROCA AÇO RÁPIDO 3"
+    },
+    {
+        "sku": "DWA32332G",
+        "descricao": "BROCA AÇO RÁPIDO 3"
+    },
+    {
+        "sku": "DWA32364G",
+        "descricao": "BROCA AÇO RÁPIDO 29"
+    },
+    {
+        "sku": "DWA32645G",
+        "descricao": "BROCA AÇO RÁPIDO 13"
+    },
+    {
+        "sku": "DWA32732G",
+        "descricao": "BROCA AÇO RÁPIDO 7"
+    },
+    {
+        "sku": "DWA32014G",
+        "descricao": "BROCA AÇO RÁPIDO 1"
+    },
+    {
+        "sku": "DWA32932G",
+        "descricao": "BROCA AÇO RÁPIDO 9"
+    },
+    {
+        "sku": "DWA32516G",
+        "descricao": "BROCA AÇO RÁPIDO 5"
+    },
+    {
+        "sku": "DWA32647G",
+        "descricao": "BROCA AÇO RÁPIDO 11"
+    },
+    {
+        "sku": "DWA32649G",
+        "descricao": "BROCA AÇO RÁPIDO 21"
+    },
+    {
+        "sku": "DWA32232G",
+        "descricao": "BROCA AÇO RÁPIDO 11"
+    },
+    {
+        "sku": "DWA32038G",
+        "descricao": "BROCA AÇO RÁPIDO 3"
+    },
+    {
+        "sku": "DWA32716G",
+        "descricao": "BROCA AÇO RÁPIDO 7"
+    },
+    {
+        "sku": "DWA32012G",
+        "descricao": "BROCA AÇO RÁPIDO 1"
+    },
+    {
+        "sku": "DWA32058G",
+        "descricao": "BROCA AÇO RÁPIDO 5"
+    },
+    {
+        "sku": "DWA32034G",
+        "descricao": "BROCA AÇO RÁPIDO 3"
+    },
+    {
+        "sku": "DWA32078G",
+        "descricao": "BROCA AÇO RÁPIDO 7"
+    },
+    {
+        "sku": "DWA32010G",
+        "descricao": "BROCA AÇO RÁPIDO 1\" GOLD FERROUS"
+    },
+    {
+        "sku": "DWA32648G",
+        "descricao": "Emb.C"
+    },
+    {
+        "sku": "DWA32164G",
+        "descricao": "Emb.C"
+    },
+    {
+        "sku": "DW130116BP",
+        "descricao": "BROCA AÇO RÁPIDO 1"
+    },
+    {
+        "sku": "DW130564BP",
+        "descricao": "BROCA AÇO RÁPIDO 5"
+    },
+    {
+        "sku": "DW130332BP",
+        "descricao": "BROCA AÇO RÁPIDO 3"
+    },
+    {
+        "sku": "DW130018BP",
+        "descricao": "BROCA AÇO RÁPIDO 1"
+    },
+    {
+        "sku": "DW130532BP",
+        "descricao": "BROCA AÇO RÁPIDO 5"
+    },
+    {
+        "sku": "DW131164B",
+        "descricao": "BROCA AÇO RÁPIDO 11"
+    },
+    {
+        "sku": "DW130316B",
+        "descricao": "BROCA AÇO RÁPIDO 3"
+    },
+    {
+        "sku": "DW130732B",
+        "descricao": "BROCA ACO RAPIDO 7"
+    },
+    {
+        "sku": "DW131364B",
+        "descricao": "BROCA AÇO RÁPIDO 13"
+    },
+    {
+        "sku": "DW131364C",
+        "descricao": "BROCA ACO RAPIDO 13"
+    },
+    {
+        "sku": "DW16010B",
+        "descricao": "BROCA AÇO RAPIDO 1,0mm P"
+    },
+    {
+        "sku": "DW16015B",
+        "descricao": "BROCA AÇO RAPIDO 1,5mm P"
+    },
+    {
+        "sku": "DW16020B",
+        "descricao": "BROCA AÇO RAPIDO 2,0mm P"
+    },
+    {
+        "sku": "DW16075B",
+        "descricao": "BROCA AÇO RAPIDO 7,5mm P"
+    },
+    {
+        "sku": "DW16090B",
+        "descricao": "BROCA AÇO RAPIDO 9,0mm P"
+    },
+    {
+        "sku": "DW16095B",
+        "descricao": "BROCA AÇO RAPIDO 9,5mm P"
+    },
+    {
+        "sku": "DW16105B",
+        "descricao": "BROCA AÇO RAPIDO 10,5mm P"
+    },
+    {
+        "sku": "DW16110B",
+        "descricao": "BROCA AÇO RAPIDO 11,0mm P"
+    },
+    {
+        "sku": "DW16115B",
+        "descricao": "BROCA AÇO RAPIDO 11,5mm P"
+    },
+    {
+        "sku": "DW16140B",
+        "descricao": "BROCA AÇO RAPIDO 14,0mm P"
+    },
+    {
+        "sku": "DW16170B",
+        "descricao": "BROCA AÇO RAPIDO 17,0mm P"
+    },
+    {
+        "sku": "DW16180B",
+        "descricao": "BROCA AÇO RAPIDO 18,0mm P"
+    },
+    {
+        "sku": "DW16190B",
+        "descricao": "BROCA AÇO RAPIDO 19,0mm P"
+    },
+    {
+        "sku": "DW560650C",
+        "descricao": "BROCA WIDEA 6.5x200mm"
+    },
+    {
+        "sku": "DW560950C",
+        "descricao": "BROCA DE WIDEA 10x300mm"
+    },
+    {
+        "sku": "DW531400C",
+        "descricao": "BROCA WIDEA 14x150mm"
+    },
+    {
+        "sku": "DW531600C",
+        "descricao": "BROCA WIDEA 16x150mm"
+    },
+    {
+        "sku": "DW530300BP",
+        "descricao": "BROCA WIDEA 3X60MM (1"
+    },
+    {
+        "sku": "DW531600B",
+        "descricao": "BROCA WIDEA 16X150MM (5"
+    },
+    {
+        "sku": "DW00700",
+        "descricao": "BROCA SDS PLUS 4MM X 110MM X 45MM"
+    },
+    {
+        "sku": "DW00701",
+        "descricao": "BROCA SDS PLUS 5MM X 110MM X 45MM"
+    },
+    {
+        "sku": "DW00702",
+        "descricao": "BROCA SDS PLUS 6MM X 110MM X 45MM"
+    },
+    {
+        "sku": "DW00703",
+        "descricao": "BROCA SDS PLUS 6MM X 160MM X 95MM"
+    },
+    {
+        "sku": "DW00733",
+        "descricao": "BROCA SDS PLUS 6MM X 150MM X 210MM"
+    },
+    {
+        "sku": "DW00705",
+        "descricao": "BROCA SDS PLUS 8MM X 110MM X 45MM"
+    },
+    {
+        "sku": "DW00706",
+        "descricao": "BROCA SDS PLUS 8MM X 95MM X 160MM"
+    },
+    {
+        "sku": "DW00707",
+        "descricao": "BROCA SDS PLUS 8MM X 150MM X 210MM"
+    },
+    {
+        "sku": "DW00735",
+        "descricao": "BROCA SDS PLUS 9MM X 150MM X 210MM"
+    },
+    {
+        "sku": "DW00708",
+        "descricao": "BROCA SDS PLUS 10MM X 110MM X 45MM"
+    },
+    {
+        "sku": "DW00709",
+        "descricao": "BROCA SDS PLUS 10MM X 95MM X 160MM"
+    },
+    {
+        "sku": "DW00710",
+        "descricao": "BROCA SDS PLUS 10MM X 210MM X 145MM"
+    },
+    {
+        "sku": "DW00711",
+        "descricao": "BROCA SDS PLUS 10MM X 270MM X 350MM"
+    },
+    {
+        "sku": "DW00712",
+        "descricao": "BROCA SDS PLUS 12MM X 95MM X 160MM"
+    },
+    {
+        "sku": "DW00736",
+        "descricao": "BROCA SDS PLUS 12MM X 200MM X 150MM"
+    },
+    {
+        "sku": "DW00739",
+        "descricao": "BROCA SDS PLUS 12MM X 260MM X 195MM"
+    },
+    {
+        "sku": "DW00713",
+        "descricao": "BROCA SDS PLUS 12MM X 410MM X 460MM"
+    },
+    {
+        "sku": "DW00714",
+        "descricao": "BROCA SDS PLUS 13MM X 160MM X 95MM"
+    },
+    {
+        "sku": "DW00715",
+        "descricao": "BROCA SDS PLUS 13MM X 300MM X 215MM"
+    },
+    {
+        "sku": "DW00716",
+        "descricao": "BROCA SDS PLUS 14MM X 160MM X 95MM"
+    },
+    {
+        "sku": "DW00737",
+        "descricao": "BROCA SDS PLUS 14MM X 150MM X 200MM"
+    },
+    {
+        "sku": "DW00740",
+        "descricao": "BROCA SDS PLUS 14MM X 300MM X 350MM"
+    },
+    {
+        "sku": "DW00738",
+        "descricao": "BROCA SDS PLUS 15MM X 210MM X 135MM"
+    },
+    {
+        "sku": "DW00717",
+        "descricao": "BROCA SDS PLUS 16MM X 100MM X 160MM"
+    },
+    {
+        "sku": "DW00718",
+        "descricao": "BROCA SDS PLUS 16mm x 135mm x 210mm"
+    },
+    {
+        "sku": "DW00719",
+        "descricao": "BROCA SDS PLUS 16MM X 300MM X 215MM"
+    },
+    {
+        "sku": "DW00720",
+        "descricao": "BROCA SDS PLUS 16MM X 410MM X 460MM"
+    },
+    {
+        "sku": "DW00721",
+        "descricao": "BROCA SDS PLUS 18MM X 150MM X 200MM"
+    },
+    {
+        "sku": "DW00722",
+        "descricao": "BROCA SDS PLUS 19MM X 150MM X 200MM"
+    },
+    {
+        "sku": "DW00723",
+        "descricao": "BROCA SDS PLUS 19MM X 250MM X 300MM"
+    },
+    {
+        "sku": "DW00724",
+        "descricao": "BROCA SDS PLUS 19MM X 400MM X 450MM"
+    },
+    {
+        "sku": "DW00725",
+        "descricao": "BROCA SDS PLUS 20MM X 150MM X 200MM"
+    },
+    {
+        "sku": "DW00726",
+        "descricao": "BROCA SDS PLUS 20mm x 215mm x 300mm"
+    },
+    {
+        "sku": "DW00727",
+        "descricao": "BROCA SDS PLUS 20MM X 410MM X 460MM"
+    },
+    {
+        "sku": "DW00728",
+        "descricao": "BROCA SDS PLUS 22mm x 130mm x 210mm"
+    },
+    {
+        "sku": "DW00729",
+        "descricao": "BROCA SDS PLUS 22MM X 250MM X 300MM"
+    },
+    {
+        "sku": "DW00730",
+        "descricao": "BROCA SDS PLUS 22MM X 400MM X 450MM"
+    },
+    {
+        "sku": "DW00731",
+        "descricao": "BROCA SDS PLUS 25MM X 200MM X 250MM"
+    },
+    {
+        "sku": "DW00732",
+        "descricao": "BROCA SDS PLUS 25MM X 400MM X 450MM"
+    },
+    {
+        "sku": "DWA0801",
+        "descricao": "PONTEIRO SDS-PLUS 250MM"
+    },
+    {
+        "sku": "DWA0802",
+        "descricao": "TALHADEIRA SDS-PLUS 250MM"
+    },
+    {
+        "sku": "DWA0803",
+        "descricao": "TALHADEIRA SDS-PLUS 250MM"
+    },
+    {
+        "sku": "DT9502-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 4 X 50 X 110"
+    },
+    {
+        "sku": "DT9504-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 5 X 50 X 110"
+    },
+    {
+        "sku": "DT9505-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 5 X 100 X 160"
+    },
+    {
+        "sku": "DT9514-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 6 X 50 X 110"
+    },
+    {
+        "sku": "DT9515-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 6 X 100 X 160"
+    },
+    {
+        "sku": "DT9516-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 6 X 150 X 210"
+    },
+    {
+        "sku": "DT9528-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 8 X 50 X 110"
+    },
+    {
+        "sku": "DT9529-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 8 X 100 X 160"
+    },
+    {
+        "sku": "DT9530-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 8 X 150 X 210"
+    },
+    {
+        "sku": "DT9532-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 8 X 250 X 310"
+    },
+    {
+        "sku": "DT9534-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 8 X 400 X 460"
+    },
+    {
+        "sku": "DT9537-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 9 X 150 X 210"
+    },
+    {
+        "sku": "DT9539-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 10 X 50 X 110"
+    },
+    {
+        "sku": "DT9540-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 10 X 100 X 160"
+    },
+    {
+        "sku": "DT9541-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 10 X 150 X 210"
+    },
+    {
+        "sku": "DT9543-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 10 X 250 X 310"
+    },
+    {
+        "sku": "DT9545-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 10 X 400 X 460"
+    },
+    {
+        "sku": "DT9546-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 10 X 540 X 600"
+    },
+    {
+        "sku": "DT9547-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 10 X 940 X 1000"
+    },
+    {
+        "sku": "DT9548-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 11 X 100 X 160"
+    },
+    {
+        "sku": "DT9549-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 11 X 150 X 210"
+    },
+    {
+        "sku": "DT9552-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 12 X 100 X 160"
+    },
+    {
+        "sku": "DT9553-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 12 X 140 X 200"
+    },
+    {
+        "sku": "DT9554-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 12 X 200 X 260"
+    },
+    {
+        "sku": "DT9557-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 12 X 390 X 450"
+    },
+    {
+        "sku": "DT9558-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 12 X 540 X 600"
+    },
+    {
+        "sku": "DT9559-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 12 X 940 X 1000"
+    },
+    {
+        "sku": "DT9561-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 13 X 150 X 200"
+    },
+    {
+        "sku": "DT9566-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 14 X 100 X 160"
+    },
+    {
+        "sku": "DT9567-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 14 X 140 X 200"
+    },
+    {
+        "sku": "DT9569-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 14 X 240 X 300"
+    },
+    {
+        "sku": "DT9570-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 14 X 390 X 450"
+    },
+    {
+        "sku": "DT9571-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 14 X 540 X 600"
+    },
+    {
+        "sku": "DT9572-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 14 X 940 X 1000"
+    },
+    {
+        "sku": "DT9574-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 15 X 140 X 200"
+    },
+    {
+        "sku": "DT9578-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 16 X 100 X 160"
+    },
+    {
+        "sku": "DT9579-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 16 X 150 X 200"
+    },
+    {
+        "sku": "DT9581-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 16 X 240 X 300"
+    },
+    {
+        "sku": "DT9582-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 16 X 390 X 450"
+    },
+    {
+        "sku": "DT9583-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 16 X 540 X 600"
+    },
+    {
+        "sku": "DT9584-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 16 X 740 X 800"
+    },
+    {
+        "sku": "DT9587-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 18 X 140 X 200"
+    },
+    {
+        "sku": "DT9590-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 18 X 390 X 450"
+    },
+    {
+        "sku": "DT9591-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 18 X 540 X 600"
+    },
+    {
+        "sku": "DT9592-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 18 X 740 X 800"
+    },
+    {
+        "sku": "DT9594-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 19 X 150 X 200"
+    },
+    {
+        "sku": "DT9597-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 20 X 140 X 200"
+    },
+    {
+        "sku": "DT9599-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 20 X 390 X 450"
+    },
+    {
+        "sku": "DT9600-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 20 X 540 X 600"
+    },
+    {
+        "sku": "DT9601-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 20 X 940 X 1000"
+    },
+    {
+        "sku": "DT9602-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 22 X 190 X 250"
+    },
+    {
+        "sku": "DT9604-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 22 X 390 X 450"
+    },
+    {
+        "sku": "DT9605-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 22 X 540 X 600"
+    },
+    {
+        "sku": "DT9609-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 24 X 190 X 250"
+    },
+    {
+        "sku": "DT9610-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 24 X 390 X 450"
+    },
+    {
+        "sku": "DT9611-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 25 X 190 X 250"
+    },
+    {
+        "sku": "DT9613-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 25 X 390 X 450"
+    },
+    {
+        "sku": "DT9615-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 26 X 200 X 250"
+    },
+    {
+        "sku": "DT9616-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 26 X 390 X 450"
+    },
+    {
+        "sku": "DT9618-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 30 X 190 X 250"
+    },
+    {
+        "sku": "DT9619-QZ",
+        "descricao": "BROCA ENC.SDS PLUS EXTREME 30 X 390 X 450"
+    },
+    {
+        "sku": "DW5348",
+        "descricao": "PONTEIRO - 10\"(25 CM)"
+    },
+    {
+        "sku": "DW5349",
+        "descricao": "TALHADEIRA - 8\" X 1-7"
+    },
+    {
+        "sku": "DW5350",
+        "descricao": "TALHADEIRA - 10\" X 3"
+    },
+    {
+        "sku": "DT9400-QZ",
+        "descricao": "BROCA SDS MAX 12 X 340 X 200MM"
+    },
+    {
+        "sku": "DT9401-QZ",
+        "descricao": "BROCA SDS MAX 12 X 540 X 400MM"
+    },
+    {
+        "sku": "DT9405-QZ",
+        "descricao": "BROCA SDS MAX 14 X 340 X 200MM"
+    },
+    {
+        "sku": "DT9406-QZ",
+        "descricao": "BROCA SDS MAX 14 X 540 X 400MM"
+    },
+    {
+        "sku": "DT9409-QZ",
+        "descricao": "BROCA SDS MAX 16 X 340 X 200MM"
+    },
+    {
+        "sku": "DT9410-QZ",
+        "descricao": "BROCA SDS MAX 16 X 540 X 400MM"
+    },
+    {
+        "sku": "DT9411-QZ",
+        "descricao": "BROCA SDS MAX 18 X 340 X 200MM"
+    },
+    {
+        "sku": "DT9412-QZ",
+        "descricao": "BROCA SDS MAX 18 X 540 X 400MM"
+    },
+    {
+        "sku": "DT9416-QZ",
+        "descricao": "BROCA SDS MAX 20 X 340 X 200MM"
+    },
+    {
+        "sku": "DT9417-QZ",
+        "descricao": "BROCA SDS MAX 20 X 540 X 400MM"
+    },
+    {
+        "sku": "DT9419-QZ",
+        "descricao": "BROCA SDS MAX 22 X 340 X 200MM"
+    },
+    {
+        "sku": "DT9420-QZ",
+        "descricao": "BROCA SDS MAX 22 X 540 X 400MM"
+    },
+    {
+        "sku": "DT9421-QZ",
+        "descricao": "BROCA SDS MAX 22 X 920 X 800MM"
+    },
+    {
+        "sku": "DT9422-QZ",
+        "descricao": "BROCA SDS MAX 24 X 340 X 200MM"
+    },
+    {
+        "sku": "DT9423-QZ",
+        "descricao": "BROCA SDS MAX 24 X 540 X 400MM"
+    },
+    {
+        "sku": "DT9424-QZ",
+        "descricao": "BROCA SDS MAX 25 X 340 X 200MM"
+    },
+    {
+        "sku": "DT9426-QZ",
+        "descricao": "BROCA SDS MAX 25 X 920 X 800MM"
+    },
+    {
+        "sku": "DT9429-QZ",
+        "descricao": "BROCA SDS MAX 28 X 380 X 250MM"
+    },
+    {
+        "sku": "DT9430-QZ",
+        "descricao": "BROCA SDS MAX 28 X 570 X 450MM"
+    },
+    {
+        "sku": "DT9433-QZ",
+        "descricao": "BROCA SDS MAX 30 X 570 X 450MM"
+    },
+    {
+        "sku": "DT9435-QZ",
+        "descricao": "BROCA SDS MAX 32 X 570 X 450MM"
+    },
+    {
+        "sku": "DT9436-QZ",
+        "descricao": "BROCA SDS MAX 32 X 920 X 800MM"
+    },
+    {
+        "sku": "DT9438-QZ",
+        "descricao": "BROCA SDS MAX 35 X 570 X 450MM"
+    },
+    {
+        "sku": "DT9442-QZ",
+        "descricao": "BROCA SDS MAX 38 X 570 X 450MM"
+    },
+    {
+        "sku": "DT9445-QZ",
+        "descricao": "BROCA SDS MAX 40 X 570 X 450MM"
+    },
+    {
+        "sku": "DT6820-QZ",
+        "descricao": "PONTEIRA 280MM - SDS MAX"
+    },
+    {
+        "sku": "DT6821-QZ",
+        "descricao": "PONTEIRA 400MM - SDS MAX"
+    },
+    {
+        "sku": "DT6822-QZ",
+        "descricao": "TALHADEIRA 25X280MM - SDS MAX"
+    },
+    {
+        "sku": "DT6823-QZ",
+        "descricao": "TALHADEIRA 25X400MM - SDS MAX"
+    },
+    {
+        "sku": "DT6824-QZ",
+        "descricao": "TALHADEIRA 50X400MM - SDS MAX"
+    },
+    {
+        "sku": "DT6825-QZ",
+        "descricao": "TALHADEIRA 80X300MM - SDS MAX"
+    },
+    {
+        "sku": "DWA0804",
+        "descricao": "PONTEIRO SDS-MAX 300MM"
+    },
+    {
+        "sku": "DWA0805",
+        "descricao": "PONTEIRO SDS-MAX 400MM"
+    },
+    {
+        "sku": "DWA0805B10",
+        "descricao": "PONTEIRO SDS-MAX 400MM"
+    },
+    {
+        "sku": "DWA0806",
+        "descricao": "TALHADEIRA SDS-MAX 300"
+    },
+    {
+        "sku": "DWA0807",
+        "descricao": "TALHADEIRA SDS-MAX 400"
+    },
+    {
+        "sku": "DWA0808",
+        "descricao": "TALHADEIRA SDS-MAX 400"
+    },
+    {
+        "sku": "DWA0807B10",
+        "descricao": "TALHADEIRA SDS-MAX 400"
+    },
+    {
+        "sku": "DW5951",
+        "descricao": "PONTEIRA 18\" - ENC. SEXTAVADO (D25941K) - SEXTAVADO 19MM"
+    },
+    {
+        "sku": "DT6906-B1",
+        "descricao": "PONTEIRO 280MM (D25811K) - SEXTAVADO 17MM"
+    },
+    {
+        "sku": "DW5960",
+        "descricao": "PONTEIRO 20\" ENCAIXE SEXTAVADO 1 1"
+    },
+    {
+        "sku": "DW5962",
+        "descricao": "TALHADEIRA 1 1"
+    },
+    {
+        "sku": "DW5954",
+        "descricao": "TALHADEIRA 1\" X 20\" ENC. SEXTAVADO (D25941K) - SEXTAVADO 19MM"
+    },
+    {
+        "sku": "DT6901-B1",
+        "descricao": "TALHADEIRA 20MM X 280MM (D25811K) - SEXTAVADO 17MM"
+    },
+    {
+        "sku": "DT6902-B1",
+        "descricao": "TALHADEIRA 20MM X 450MM (D25811K) - SEXTAVADO 17MM"
+    },
+    {
+        "sku": "DW5952",
+        "descricao": "TALHADEIRA 3\" X 12\" ENC. SEXTAVADO (D25941K) - SEXTAVADO 19MM"
+    },
+    {
+        "sku": "DW5961",
+        "descricao": "TALHADEIRA 3\" X 20\" (D25960K E D25980K) - SEXTAVADO 28MM"
+    },
+    {
+        "sku": "DWA03220",
+        "descricao": "10\" 100D - LÂMINA SERRA ESQUADRIA - ALUMÍNIO"
+    },
+    {
+        "sku": "DWA03120",
+        "descricao": "10\" 60D - LÂMINA SERRA ESQUADRIA - MADEIRA"
+    },
+    {
+        "sku": "DWA03210",
+        "descricao": "10\" 80D - LÂMINA SERRA ESQUADRIA - ALUMÍNIO"
+    },
+    {
+        "sku": "DWA03130",
+        "descricao": "10\" 80D - LÂMINA SERRA ESQUADRIA - MADEIRA"
+    },
+    {
+        "sku": "DW3192",
+        "descricao": "7 1"
+    },
+    {
+        "sku": "DW3592B10",
+        "descricao": "7 1"
+    },
+    {
+        "sku": "DW3178",
+        "descricao": "7 1"
+    },
+    {
+        "sku": "DW3578B10",
+        "descricao": "7 1"
+    },
+    {
+        "sku": "DW3176",
+        "descricao": "7 1"
+    },
+    {
+        "sku": "DWA03200",
+        "descricao": "7-1"
+    },
+    {
+        "sku": "DW19011",
+        "descricao": "SERRA COPO DEWALT 11"
+    },
+    {
+        "sku": "DW19020",
+        "descricao": "SERRA COPO 1-1"
+    },
+    {
+        "sku": "DW19023",
+        "descricao": "SERRA COPO DEWALT 1-7"
+    },
+    {
+        "sku": "DW19024",
+        "descricao": "SERRA COPO 1-1"
+    },
+    {
+        "sku": "DW19026",
+        "descricao": "SERRA COPO 1-5"
+    },
+    {
+        "sku": "DW19034",
+        "descricao": "SERRA COPO 2-1"
+    },
+    {
+        "sku": "DW19036",
+        "descricao": "SERRA COPO 2-1"
+    },
+    {
+        "sku": "DW19042",
+        "descricao": "SERRA COPO DEWALT 2-5"
+    },
+    {
+        "sku": "DW19043",
+        "descricao": "SERRA COPO DEWALT 68MM"
+    },
+    {
+        "sku": "DW19050",
+        "descricao": "SERRA COPO DEWALT3-1"
+    },
+    {
+        "sku": "DW19052",
+        "descricao": "SERRA COPO DEWALT 3-1"
+    },
+    {
+        "sku": "DW19054",
+        "descricao": "SERRA COPO DEWALT 3-3"
+    },
+    {
+        "sku": "DW19056",
+        "descricao": "SERRA COPO 3-1"
+    },
+    {
+        "sku": "DW19058",
+        "descricao": "SERRA COPO DEWALT 3-5"
+    },
+    {
+        "sku": "DW19060",
+        "descricao": "SERRA COPO DEWALT 3-3"
+    },
+    {
+        "sku": "DW19062",
+        "descricao": "SERRA COPO DEWALT 3-7"
+    },
+    {
+        "sku": "DW19066",
+        "descricao": "SERRA COPO DEWALT 4-1"
+    },
+    {
+        "sku": "DW19068",
+        "descricao": "SERRA COPO DEWALT 4-1"
+    },
+    {
+        "sku": "DW19072",
+        "descricao": "SERRA COPO DEWALT 4-1"
+    },
+    {
+        "sku": "DW19076",
+        "descricao": "SERRA COPO DEWALT 4-3"
+    },
+    {
+        "sku": "DW19080",
+        "descricao": "SERRA COPO DEWALT 5\""
+    },
+    {
+        "sku": "DW19088",
+        "descricao": "SERRA COPO DEWALT 5-1"
+    },
+    {
+        "sku": "DW19096",
+        "descricao": "SERRA COPO DEWALT 6\""
+    },
+    {
+        "sku": "DW1818",
+        "descricao": "MANDRIL PARA SERRA COPO 3"
+    },
+    {
+        "sku": "DW57400BHP",
+        "descricao": "DISCO DIAMANTADO PORCELANATO 4\" (105MM) - SERRA MÁRMORE"
+    },
+    {
+        "sku": "DW57700HP",
+        "descricao": "DISCO DIAMANTADO PORCELANATO 7\" (180MM) - ESMERILHADEIRA"
+    },
+    {
+        "sku": "DW57900HP",
+        "descricao": "DISCO DIAMANTADO PORCELANATO 9\" (230MM) - ESMERILHADEIRA"
+    },
+    {
+        "sku": "DW47400BHP",
+        "descricao": "DISCO DIAMANTADO 4\" 105MM TURBO - FURO 20MM PARA USO EM SERRA MÁRMORE"
+    },
+    {
+        "sku": "DW47401BHP",
+        "descricao": "DISCO DIAMANTADO 4\" 105MM CONTINUO - FURO 20MM PARA USO EM SERRA MÁRMORE"
+    },
+    {
+        "sku": "DW47402BHP",
+        "descricao": "DISCO DIAMANTADO 4\" 105MM SEGMENTADO - FURO 20MM PARA USO EM SERRA MÁRMORE"
+    },
+    {
+        "sku": "DW47701HP",
+        "descricao": "DISCO DIAMANTADO 7\" 180MM CONTINUO - FURO 22MM COM REDUTOR PARA 20 E 16MM"
+    },
+    {
+        "sku": "DW47702HP",
+        "descricao": "DISCO DIAMANTADO 7\" 180MM SEGMENTADO - FURO 22MM COM REDUTOR PARA 20 E 16MM"
+    },
+    {
+        "sku": "DW47900HP",
+        "descricao": "DISCO DIAMANTADO 9\" 230MM TURBO - FURO 22MM COM REDUTOR PARA 20 E 16MM"
+    },
+    {
+        "sku": "DW47901HP",
+        "descricao": "DISCO DIAMANTADO 9\" 230MM CONTINUO - FURO 22MM COM REDUTOR PARA 20 E 16MM"
+    },
+    {
+        "sku": "DW47902HP",
+        "descricao": "DISCO DIAMANTADO 9\" 230MM SEGMENTADO - FURO 22MM COM REDUTOR PARA 20 E 16MM"
+    }
+]

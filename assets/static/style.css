@@ -1,0 +1,97 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.search_wrapper {
+    width: 90%;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.result_wrapper {
+    margin-top: 10px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.result_wrapper th {
+    background-color: blue;
+}
+
+.result_wrapper td {
+    border: 1px solid blue;
+    padding: 10px;
+}
+
+.search_input_wrapper {
+    height: 30px;
+    width: 300px;
+}
+
+.search_button_wrapper {
+    height: 35px;
+    font-weight: bold;
+}
+
+.error_modal{
+    width: 250px;
+    height: 70px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: yellow;
+    background-color: blue;
+    display: none;
+}
+
+.error_modal_wrapper {
+    position: relative;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: right;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+.error_modal_close {
+    text-align: right;
+    padding: 10px;
+    position: relative;
+    left: 15px;
+    top: -10px;
+    border-radius: 10%;
+    background-color: red;
+    cursor: pointer;
+}
+
+.error_modal_text {
+    font-size: 20px;
+}
+
+#item_result_cnpj {
+    display: none;
+}
+
+#item_result_produto{
+    display: none;
+}

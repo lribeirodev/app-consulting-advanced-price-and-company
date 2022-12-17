@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/static/style.css">
+    <title>Sistema de Busca Avançada</title>
+</head>
+
+<body>
+    <div class="title">
+        <h1> Sistema de Busca Avançada </h1>
+    </div>
+    <div class="search_wrapper">
+        <h2>
+            Buscar CNPJ
+        </h2>
+        <input type="text" tabindex="0" class="search_input_wrapper" id="search_input_empresa">
+        <button  tabindex="-1" class="search_button_wrapper" id="search_button_empresa" disabled onclick="doSearchCompany()">buscar</button>
+        <div class="result_wrapper" >
+            <table id="item_result_cnpj">
+                <tr>
+                    <th>
+                        CNPJ
+                    </th>
+                    <th>
+                        EMPRESA
+                    </th>
+                </tr>
+                <tr>
+                    <td id="result_cnpj_number">
+                        
+                    </td>
+                    <td id="result_cnpj_name">
+                        
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <div class="search_wrapper">
+        <h2>
+            Buscar Produto
+        </h2>
+        <input type="text" tabindex="0" class="search_input_wrapper" id="search_input_produto">
+        <button  tabindex="-1" class="search_button_wrapper" id="search_button_produto" disabled onclick="doSearchProduct()">buscar</button>
+        <div class="result_wrapper" id="result_produto">
+            <table id="item_result_produto">
+                <tr>
+                    <th>
+                        SKU
+                    </th>
+                    <th>
+                        DESCRIÇÃO
+                    </th>
+                </tr>
+                <tr>
+                    <td id="result_product_sku">
+                        
+                    </td>
+                    <td id="result_product_description">
+                        
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+    <div class="error_modal" id="modal">
+        <div class="error_modal_wrapper">
+            <div class="error_modal_close" onclick="closeModal()">
+                X
+            </div>
+            <div class="error_modal_text">
+                NÃO ENCONTRADO
+            </div>
+        </div>
+    </div>
+
+    <script src="./assets/static/api.js"></script>
+</body>
+
+</html>
