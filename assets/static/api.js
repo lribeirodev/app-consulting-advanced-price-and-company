@@ -62,7 +62,7 @@ function doSearchProduct() {
     if(input.value.length === 0) showModal();
     
     produtos.find((value, index) => {
-        if(value.sku === input.value.trim() || value.sku.substring(0,value.sku.length - 3) === input.value.trim()){
+        if(value.sku === input.value.trim() || value.sku.substring(0,value.sku.length - 3) === input.value.trim() || value.sku.substring(0,value.sku.length - 2) === input.value.trim()){
             closeModal();
             produto_sku.textContent = value.sku;
             produto_descricao.textContent = value.descricao;
